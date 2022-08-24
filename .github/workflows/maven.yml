@@ -6,7 +6,7 @@ name: Java CI with Maven
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 */6 * * *'
+    - cron:  '30 0 * * *'
 
 jobs:
   build:
@@ -27,11 +27,11 @@ jobs:
     
     - name: Commit files
       run: |
-         git config --local user.email "acc8226@qq.com"
-         git config --local user.name "github action"
+         git config user.email "acc8226@qq.com"
+         git config user.name "Github Action"
          git pull
-         git add *
-         git commit -m "update readme.md"
+         git add README.md sources.txt archives/*
+         git commit -m "update by Github Action"
     - name: Push changes
       uses:  ad-m/github-push-action@master
       with:

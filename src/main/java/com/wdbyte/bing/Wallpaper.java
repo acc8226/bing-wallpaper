@@ -46,10 +46,11 @@ public class Wallpaper {
         }
 
         List<Image> imagesList = FileUtils.readBing();
+        Image image = new Image(copyright, endDate, url);
         if (imagesList.isEmpty()) {
-            imagesList = Collections.singletonList(new Image(copyright, endDate, url));
+            imagesList = Collections.singletonList(image);
         } else {
-            imagesList.set(0, new Image(copyright, endDate, url));
+            imagesList.add(image);
             // 去重和排序
             imagesList = imagesList.stream().distinct().sorted().collect(Collectors.toList());
         }
