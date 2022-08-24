@@ -17,11 +17,12 @@ import java.util.stream.Collectors;
  */
 public class FileUtils {
 
-    private static final Path README_PATH = Paths.get("README.md");
-
     private static final Path BING_PATH = Paths.get("sources.txt");
-
+    private static final Path README_PATH = Paths.get("README.md");
     private static final Path MONTH_PATH = Paths.get("archives/");
+
+    private static final String ARCHIVE_LOCAL_URL = "https://gitee.com/kaiLee/bing-wallpaper/blob/main/archives/%s.md";
+    private static final String ARCHIVE_GITHUB_URL = "https://github.com/acc8226/bing-wallpaper/tree/main/archives/%s.md";
 
     /**
      * 读取 sources.txt
@@ -29,30 +30,15 @@ public class FileUtils {
      * @return
      * @throws IOException
      */
-    public static List<Image> readBing() throws IOException {
+    public static Collection<Image> readFromSource() throws IOException {
         if (!Files.exists(BING_PATH)) {
             Files.createFile(BING_PATH);
         }
-        List<String> allLines = Files.readAllLines(BING_PATH)
+        return Files.readAllLines(BING_PATH)
                 .stream()
                 .filter(s -> !s.isEmpty())
                 .filter(s -> !s.startsWith("#"))
-                .collect(Collectors.toList());
-
-        List<Image> imageList = new ArrayList<>(allLines.size() + 1);
-        for (String allLine : allLines) {
-            String s = allLine.trim();
-            int descEnd = s.indexOf("]");
-            String desc = s.substring(14, descEnd);
-
-            String date = s.substring(0, 10);
-
-            int urlStart = s.lastIndexOf("(") + 1;
-            String url = s.substring(urlStart, s.length() - 1);
-
-            imageList.add(new Image(desc, date, url));
-        }
-        return imageList;
+                .map(Image::fromSourceByLine).collect(Collectors.toSet());
     }
 
     /**
@@ -61,12 +47,12 @@ public class FileUtils {
      * @param imgList
      * @throws IOException
      */
-    public static void writeBing(List<Image> imgList) throws IOException {
+    public static void write2Source(Collection<Image> imgList) throws IOException {
         Files.deleteIfExists(BING_PATH);
         Files.createFile(BING_PATH);
 
         for (Image images : imgList) {
-            Files.write(BING_PATH, images.formatMarkdown().getBytes(), StandardOpenOption.APPEND);
+            Files.write(BING_PATH, images.sourceFormat().getBytes(), StandardOpenOption.APPEND);
         }
     }
 
@@ -76,45 +62,56 @@ public class FileUtils {
      * @param imgList
      * @throws IOException
      */
-    public static void writeReadme(List<Image> imgList) throws IOException {
+    public static void writeReadme(Collection<Image> imgList) throws IOException {
         Files.deleteIfExists(README_PATH);
         Files.createFile(README_PATH);
 
-        // 取 30 张
-        List<Image> currentMonthImageList = new ArrayList<>(31);
-        for (int i = 0; i < 31; i++) {
-            Image current = imgList.get(i);
-            currentMonthImageList.add(current);
-            if (i + 1 >= imgList.size()) {
-                break;
-            }
-            String currentDateStr = current.getDate().substring(0, 7);
-            String nextDateStr = imgList.get(i + 1).getDate().substring(0, 7);
-            if (!Objects.equals(currentDateStr, nextDateStr)) {
-                break;
-            }
-        }
-        Files.write(README_PATH, (currentMonthImageList.get(0).toLarge()).getBytes(), StandardOpenOption.APPEND);
+        Iterator<Image> iterator = imgList.iterator();
+        // 每月将最多取 31 张
+        Image current = iterator.next();
+        Files.write(README_PATH, (current.largeImg()).getBytes(), StandardOpenOption.APPEND);
 
+        List<Image> currentMonthImageList = new ArrayList<>(31);
+        String firstImageEndDate = current.getEndDateStr().substring(0, 7);
+        while (iterator.hasNext()) {
+            Image next = iterator.next();
+            currentMonthImageList.add(current);
+            if (!Objects.equals(firstImageEndDate, next.getEndDateStr().substring(0, 7))) {
+                break;
+            }
+            current = next;
+        }
         writeFile(README_PATH, currentMonthImageList.subList(1, currentMonthImageList.size()));
 
         // 归档
-        Files.write(README_PATH, ("## 历史归档" + System.lineSeparator() + System.lineSeparator()).getBytes(), StandardOpenOption.APPEND);
+        Files.write(README_PATH, (System.lineSeparator() + "## 历史归档" + System.lineSeparator() + System.lineSeparator()).getBytes(), StandardOpenOption.APPEND);
 
         List<String> dateList = imgList.stream()
-                .map(Image::getDate)
+                .map(Image::getEndDateStr)
                 .map(date -> date.substring(0, 7))
                 .distinct()
                 .collect(Collectors.toList());
+
         int i = 0;
+        StringBuilder stringBuilder = new StringBuilder();
         for (String date : dateList) {
-            String link = String.format("[%s](https://github.com/acc8226/bing-wallpaper/tree/main/archives/%s.md) | ", date, date);
-            Files.write(README_PATH, link.getBytes(), StandardOpenOption.APPEND);
-            i++;
-            if (i % 8 == 0) {
-                Files.write(README_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+            if (i % 8 != 0) {
+                stringBuilder.append(" ");
             }
+            stringBuilder.append("[");
+            stringBuilder.append(date);
+            stringBuilder.append("](");
+            stringBuilder.append(String.format(ARCHIVE_GITHUB_URL, date));
+            stringBuilder.append(") |");
+            if (i % 8 == 7) {
+                stringBuilder.append(System.lineSeparator());
+            }
+            i++;
         }
+        if (i != 8) {
+            stringBuilder.append(System.lineSeparator());
+        }
+        Files.write(README_PATH, stringBuilder.toString().getBytes(), StandardOpenOption.APPEND);
     }
 
     /**
@@ -123,10 +120,10 @@ public class FileUtils {
      * @param imgList
      * @throws IOException
      */
-    public static void writeMonthInfo(List<Image> imgList) throws IOException {
+    public static void writeMonthInfo(Collection<Image> imgList) throws IOException {
         Map<String, List<Image>> monthMap = new HashMap<>();
         for (Image images : imgList) {
-            String key = images.getDate().substring(0, 7);
+            String key = images.getEndDateStr().substring(0, 7);
             List<Image> list;
             if (monthMap.containsKey(key)) {
                 list = monthMap.get(key);
@@ -142,7 +139,7 @@ public class FileUtils {
         }
 
         for (String monthName : monthMap.keySet()) {
-            Path path = MONTH_PATH.resolve(monthName +".md");
+            Path path = MONTH_PATH.resolve(monthName + ".md");
 
             Files.deleteIfExists(path);
             Files.createFile(path);
@@ -174,7 +171,7 @@ public class FileUtils {
 
             int i = 0;
             for (Image images : imagesList) {
-                Files.write(path, ("|" + images.smallImg()).getBytes(), StandardOpenOption.APPEND);
+                Files.write(path, images.smallImg().getBytes(), StandardOpenOption.APPEND);
                 // 每 3 张图换行
                 if (i % 3 == 2) {
                     Files.write(path, ("|" + System.lineSeparator()).getBytes(), StandardOpenOption.APPEND);
@@ -183,13 +180,13 @@ public class FileUtils {
             }
             // 最后一张图如果不是最后一列则进行封底
             if (i % 3 != 0) {
-                Files.write(path, "|".getBytes(), StandardOpenOption.APPEND);
+                Files.write(path, ("|" + System.lineSeparator()).getBytes(), StandardOpenOption.APPEND);
             }
-            Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
         }
     }
 
     private static void writeFile(Path path, List<Image> imagesList) throws IOException {
         writeFile(path, imagesList, "当月");
     }
+
 }
