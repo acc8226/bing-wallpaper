@@ -6,8 +6,8 @@ name: Java CI with Maven
 on:
   workflow_dispatch:
   schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '30 0 * * *'
+    # UTC 16 点也就是东八区 0 点定时执行任务
+    - cron:  '0 16 * * *'
 
 jobs:
   build:
