@@ -44,3 +44,5 @@ nbdist/
 !*/build/*.xml
 
 /node_modules
+
+/app/build

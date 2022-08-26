@@ -1,13 +1,14 @@
 # This workflow will build a Java project with Maven
 # For more information see: https://help.github.com/actions/language-and-framework-guides/building-and-testing-java-with-maven
 
-name: Java CI with Maven
+name: Java CI
 
 on:
   workflow_dispatch:
   schedule:
     # UTC 16 点也就是东八区 0 点定时执行任务
-    - cron:  '0 16 * * *'
+    # - cron:  '0 16 * * *'
+    - cron:  '*/30 * * * *'
 
 jobs:
   build:
@@ -15,17 +16,15 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Set up JDK 1.8
-      uses: actions/setup-java@v1
+
+    - name: Set up JAVA
+      uses: actions/setup-java@v3
       with:
-        java-version: 1.8
+        distribution: 'temurin'
+        java-version: '11'
+        cache: 'gradle'
+    - run: chmod +x ./gradlew && ./gradlew run --no-daemon
 
-    - name: Build with Maven
-      run: mvn -B package --file pom.xml
-
-    - name: Run Java Application
-      run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
-    
     - name: Commit files
       run: |
          git config user.email "acc8226@qq.com"
@@ -33,6 +32,7 @@ jobs:
          git pull
          git add README.md sources.txt archives/*
          git commit -m "update by Github Action"
+
     - name: Push changes
       uses:  ad-m/github-push-action@master
       with:
