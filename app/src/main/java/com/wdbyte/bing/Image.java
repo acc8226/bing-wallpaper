@@ -15,7 +15,7 @@ public class Image implements Comparable<Image> {
 
     private static final String BASE_URL_PREFIX = "https://cn.bing.com";
 
-    @JsonProperty("enddate")
+    @JsonProperty("startdate")
     private String endDateStr;
     private String url;
     private String title;
@@ -31,7 +31,7 @@ public class Image implements Comparable<Image> {
     }
 
     /**
-     * 用于写入 sources.txt 的单行格式
+     * 用于写入 sources_zh-CN.txt 的单行格式
      *
      * @return
      */
@@ -42,9 +42,10 @@ public class Image implements Comparable<Image> {
     /**
      * README 首页大图的排版
      */
-    public String largeImg() {
+    public String largeImg(String todayFormat, String titleFormat, String copyrightFormat) {
         String smallUrl = url + "&w=1000";
-        return String.format("![%s](%s)" + System.lineSeparator() + System.lineSeparator() + "今日 %s | [%s](%s)" + System.lineSeparator() + System.lineSeparator(), title, smallUrl, endDateStr, title, url);
+        return String.format("![%s](%s)" + System.lineSeparator() + System.lineSeparator() + "[%s%s | %s%s | %s%s](%s)" + System.lineSeparator() + System.lineSeparator(),
+                title, smallUrl, todayFormat, endDateStr, titleFormat, title, copyrightFormat, copyright, url);
     }
 
     /**

@@ -1,15 +1,7 @@
 package com.wdbyte.bing;
 
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
-
 import java.io.IOException;
-import java.net.URL;
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
-import java.util.Set;
-import java.util.TreeSet;
+import java.util.Collection;
 
 /**
  * @author niujinpeng
@@ -18,37 +10,19 @@ import java.util.TreeSet;
  */
 public class App {
 
-    private static final ObjectMapper MAPPER = new ObjectMapper();
-
-    // BING API
-    private static final String BING_API = "https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=10&nc=1612409408851&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160";
-
     public static void main(String[] args) throws IOException {
-        JsonNode jsonNode = MAPPER.readTree(new URL(BING_API));
-        String imagesNode = jsonNode.get("images").toString();
-        TypeReference<Image[]> typeReference = new TypeReference<Image[]>() {};
-        Image[] images = MAPPER.readValue(imagesNode, typeReference);
-        Set<Image> imageSet = new TreeSet<>();
-        for (Image image : images) {
-            // 图片时间
-            String endDate = image.getEndDateStr();
-            LocalDate localDate = LocalDate.parse(endDate, DateTimeFormatter.BASIC_ISO_DATE);
-            image.setEndDateStr(localDate.format(DateTimeFormatter.ISO_LOCAL_DATE));
+        write2File(new LocalRegion());
+    }
 
-            // 图片地址
-            String path = image.getUrl();
-            if (path.contains("&")) {
-                path = path.substring(0, path.indexOf("&"));
-            }
-            image.appendPath(path);
+    private static void write2File(IRegion region) throws IOException {
+        FileUtils.updateRegion(region);
 
-            imageSet.add(image);
-        }
-        imageSet.addAll(FileUtils.readFromSource());
+        Collection<Image> imageCollection = FileUtils.readFromNet();
+        imageCollection.addAll(FileUtils.readFromSource());
 
-        FileUtils.write2Source(imageSet);
-        FileUtils.writeReadme(imageSet);
-        FileUtils.writeMonthInfo(imageSet);
+        FileUtils.write2Source(imageCollection);
+        FileUtils.writeReadme(imageCollection);
+        FileUtils.writeMonthInfo(imageCollection);
     }
 
 }

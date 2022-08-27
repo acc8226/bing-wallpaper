@@ -1,10 +1,16 @@
 package com.wdbyte.bing;
 
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
 import java.io.IOException;
+import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -17,24 +23,56 @@ import java.util.stream.Collectors;
  */
 public class FileUtils {
 
-    private static final Path BING_PATH = Paths.get("../sources.txt");
-    private static final Path README_PATH = Paths.get("../README.md");
-    private static final Path MONTH_PATH = Paths.get("../archives/");
+    private static final ObjectMapper MAPPER = new ObjectMapper();
 
-    private static final String ARCHIVE_LOCAL_URL = "https://gitee.com/kaiLee/bing-wallpaper/blob/main/archives/%s.md";
-    private static final String ARCHIVE_GITHUB_URL = "https://github.com/acc8226/bing-wallpaper/tree/main/archives/%s.md";
+    private static final String ARCHIVE_LOCAL_URL = "https://gitee.com/kaiLee/bing-wallpaper/blob/main/%s%s.md";
+    private static final String ARCHIVE_GITHUB_URL = "https://github.com/acc8226/bing-wallpaper/tree/main/%s%s.md";
+
+    private static IRegion region;
+
+    public static void updateRegion(IRegion region) {
+        FileUtils.region = region;
+    }
+
+    public static Set<Image> readFromNet() throws IOException {
+        JsonNode jsonNode = MAPPER.readTree(new URL(region.getURL()));
+        String imagesNode = jsonNode.get("images").toString();
+        TypeReference<Image[]> typeReference = new TypeReference<Image[]>() {
+        };
+        Image[] images = MAPPER.readValue(imagesNode, typeReference);
+
+        Set<Image> imageSet = new TreeSet<>();
+        for (Image image : images) {
+            // 图片时间
+            String endDate = image.getEndDateStr();
+            LocalDate localDate = LocalDate.parse(endDate, DateTimeFormatter.BASIC_ISO_DATE);
+            image.setEndDateStr(localDate.format(DateTimeFormatter.ISO_LOCAL_DATE));
+
+            // 图片地址
+            String path = image.getUrl();
+            if (path.contains("&")) {
+                path = path.substring(0, path.indexOf("&"));
+            }
+            image.appendPath(path);
+
+            imageSet.add(image);
+        }
+        return imageSet;
+    }
 
     /**
-     * 读取 sources.txt
+     * 读取 sources_zh-CN.txt
      *
      * @return
      * @throws IOException
      */
     public static Collection<Image> readFromSource() throws IOException {
-        if (!Files.exists(BING_PATH)) {
-            Files.createFile(BING_PATH);
+        Path bingPath = region.getBingPath();
+        if (!Files.exists(bingPath)) {
+            Files.createFile(bingPath);
+            return Collections.emptySet();
         }
-        return Files.readAllLines(BING_PATH)
+        return Files.readAllLines(bingPath)
                 .stream()
                 .filter(s -> !s.isEmpty())
                 .filter(s -> !s.startsWith("#"))
@@ -42,17 +80,18 @@ public class FileUtils {
     }
 
     /**
-     * 写入 sources.txt
+     * 写入 sources_zh-CN.txt
      *
      * @param imgList
      * @throws IOException
      */
     public static void write2Source(Collection<Image> imgList) throws IOException {
-        Files.deleteIfExists(BING_PATH);
-        Files.createFile(BING_PATH);
+        Path bingPath = region.getBingPath();
+        Files.deleteIfExists(bingPath);
+        Files.createFile(bingPath);
 
         for (Image images : imgList) {
-            Files.write(BING_PATH, images.sourceFormat().getBytes(), StandardOpenOption.APPEND);
+            Files.write(bingPath, images.sourceFormat().getBytes(), StandardOpenOption.APPEND);
         }
     }
 
@@ -63,12 +102,15 @@ public class FileUtils {
      * @throws IOException
      */
     public static void writeReadme(Collection<Image> imgList) throws IOException {
-        Files.deleteIfExists(README_PATH);
-        Files.createFile(README_PATH);
+        Path readmePath = region.getReadmePath();
+        Files.deleteIfExists(readmePath);
+        Files.createFile(readmePath);
 
         Iterator<Image> iterator = imgList.iterator();
         Image current = iterator.next();
-        Files.write(README_PATH, (current.largeImg()).getBytes(), StandardOpenOption.APPEND);
+
+        // 写入当天
+        Files.write(readmePath, current.largeImg(region.getCurrentDayFormat(), region.getTitleFormat(), region.getCopyrightFormat()).getBytes(), StandardOpenOption.APPEND);
 
         List<Image> currentMonthImageList = new ArrayList<>(31);
         String firstImageEndDate = current.getEndDateStr().substring(0, 7);
@@ -80,10 +122,11 @@ public class FileUtils {
             }
             current = next;
         }
-        writeFile(README_PATH, currentMonthImageList.subList(1, currentMonthImageList.size()));
+        // 写入当月
+        writeFile(readmePath, currentMonthImageList);
 
         // 归档
-        Files.write(README_PATH, (System.lineSeparator() + "## 历史归档" + System.lineSeparator() + System.lineSeparator()).getBytes(), StandardOpenOption.APPEND);
+        Files.write(readmePath, (System.lineSeparator() + region.getArchivesText() + System.lineSeparator() + System.lineSeparator()).getBytes(), StandardOpenOption.APPEND);
 
         List<String> dateList = imgList.stream()
                 .map(Image::getEndDateStr)
@@ -100,7 +143,7 @@ public class FileUtils {
             stringBuilder.append("[");
             stringBuilder.append(date);
             stringBuilder.append("](");
-            stringBuilder.append(String.format(ARCHIVE_GITHUB_URL, date));
+            stringBuilder.append(String.format(ARCHIVE_GITHUB_URL, region.getMonthPathString(), date));
             stringBuilder.append(") |");
             if (i % 8 == 7) {
                 stringBuilder.append(System.lineSeparator());
@@ -110,7 +153,7 @@ public class FileUtils {
         if (i % 8 != 0) {
             stringBuilder.append(System.lineSeparator());
         }
-        Files.write(README_PATH, stringBuilder.toString().getBytes(), StandardOpenOption.APPEND);
+        Files.write(readmePath, stringBuilder.toString().getBytes(), StandardOpenOption.APPEND);
     }
 
     /**
@@ -120,6 +163,7 @@ public class FileUtils {
      * @throws IOException
      */
     public static void writeMonthInfo(Collection<Image> imgList) throws IOException {
+        Path monthPath = region.getMonthPath();
         Map<String, List<Image>> monthMap = new HashMap<>();
         for (Image images : imgList) {
             String key = images.getEndDateStr().substring(0, 7);
@@ -133,12 +177,12 @@ public class FileUtils {
             list.add(images);
         }
 
-        if (!Files.exists(MONTH_PATH)) {
-            Files.createDirectories(MONTH_PATH);
+        if (!Files.exists(monthPath)) {
+            Files.createDirectories(monthPath);
         }
 
         for (String monthName : monthMap.keySet()) {
-            Path path = MONTH_PATH.resolve(monthName + ".md");
+            Path path = monthPath.resolve(monthName + ".md");
 
             Files.deleteIfExists(path);
             Files.createFile(path);
@@ -150,7 +194,7 @@ public class FileUtils {
     private static void writeFile(Path path, List<Image> imagesList, String name) throws IOException {
         if (!imagesList.isEmpty()) {
             StringBuilder stringBuilder = new StringBuilder(500);
-            stringBuilder.append("## Bing Wallpaper");
+            stringBuilder.append(region.getMarkdownHeadText());
             if (name != null) {
                 stringBuilder.append("(");
                 stringBuilder.append(name);
@@ -185,7 +229,7 @@ public class FileUtils {
     }
 
     private static void writeFile(Path path, List<Image> imagesList) throws IOException {
-        writeFile(path, imagesList, "当月");
+        writeFile(path, imagesList, region.getCurrentMonthText());
     }
 
 }

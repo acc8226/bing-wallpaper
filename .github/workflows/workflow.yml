@@ -6,10 +6,8 @@ name: Java CI
 on:
   workflow_dispatch:
   schedule:
-    # UTC 16 点也就是东八区 0 点定时执行任务
-    # - cron:  '0 16 * * *'
-    - cron:  '*/30 * * * *'
-
+    # UTC -7 比 0 时区晚 7 个小时，需要到 UTC -7 的零点才执行，同时是北京时间 15 点
+    - cron:  '* 7 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -30,7 +28,7 @@ jobs:
          git config user.email "acc8226@qq.com"
          git config user.name "Github Action"
          git pull
-         git add README.md sources.txt archives/*
+         git add README* sources/ archives/
          git commit -m "update by Github Action"
 
     - name: Push changes
