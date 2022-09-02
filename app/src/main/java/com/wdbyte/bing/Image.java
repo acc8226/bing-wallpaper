@@ -53,7 +53,7 @@ public class Image implements Comparable<Image> {
      */
     public String smallImg() {
         String smallUrl = url + "&pid=hp&w=384&h=216&rs=1&c=4";
-        return String.format("| ![%s](%s) %s [download 4k](%s) ", title, smallUrl, endDateStr, url);
+        return String.format("| ![%s](%s) <br/>%s [download 4k](%s)", title, smallUrl, endDateStr, url);
     }
 
     public String getCopyright() {
