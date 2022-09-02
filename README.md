@@ -1,12 +1,12 @@
-![Who uses this grassy bridge?](https://cn.bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg&w=1000)
+![This magical beach is worth the hike](https://cn.bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg&w=1000)
 
-[Today: 2022-09-01 | title: Who uses this grassy bridge? | copyright：Wildlife crossing in Wierden, Netherlands (© Frans Lemmens/Alamy)](https://cn.bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg)
+[Today: 2022-09-02 | title: This magical beach is worth the hike | copyright：Seitan Limania Beach in Crete, Greece (© Georgios Tsichlis/Alamy)](https://cn.bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Who uses this grassy bridge?](https://cn.bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-09-01 [download 4k](https://cn.bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![This magical beach is worth the hike](https://cn.bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-09-02 [download 4k](https://cn.bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg)| ![Who uses this grassy bridge?](https://cn.bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-09-01 [download 4k](https://cn.bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg)|
 
 ## archives
 
