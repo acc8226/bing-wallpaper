@@ -38,7 +38,7 @@ public class LocalRegion implements IRegion {
 
     @Override
     public String getMarkdownHeadText() {
-        return "## Bing Wallpaper";
+        return "## bing wallpaper";
     }
 
     @Override

@@ -193,7 +193,7 @@ public class FileUtils {
 
     private static void writeFile(Path path, List<Image> imagesList, String name) throws IOException {
         if (!imagesList.isEmpty()) {
-            StringBuilder stringBuilder = new StringBuilder(500);
+            StringBuilder stringBuilder = new StringBuilder(300);
             stringBuilder.append(region.getMarkdownHeadText());
             if (name != null) {
                 stringBuilder.append("(");
@@ -203,31 +203,39 @@ public class FileUtils {
             stringBuilder.append(System.lineSeparator());
             stringBuilder.append(System.lineSeparator());
 
-            stringBuilder.append("|  |  |  |");
+            // 需要处理 1、 2 和 多张图的情况
+            stringBuilder.append("|");
+            int i;
+            int j = Math.min(3, imagesList.size());
+            for (i = 1; i <= j; i++) {
+                stringBuilder.append("  |");
+            }
             stringBuilder.append(System.lineSeparator());
 
-            stringBuilder.append("| :----: | :----: | :----: |");
+            // 需要处理 1、 2 和 多张图的情况
+            stringBuilder.append("|");
+            for (i = 1; i <= j; i++) {
+                stringBuilder.append(" :----: |");
+            }
             stringBuilder.append(System.lineSeparator());
 
-            int i = 0;
+            i = 0;
             for (Image images : imagesList) {
                 stringBuilder.append(images.smallImg());
-                // 每 3 张图换行
+                // 每 3 张图进行封底+换行
                 if (i % 3 == 2) {
-                    stringBuilder.append("|");
-                    stringBuilder.append(System.lineSeparator());
+                    stringBuilder.append("|").append(System.lineSeparator());
                 }
                 i++;
             }
-            // 最后一张图如果不是最后一列则进行封底
+            // 最后一张图如果不是最后一列表示从来没有进行过封底+换行则 换之
             if (i % 3 != 0) {
-                stringBuilder.append("|");
-                stringBuilder.append(System.lineSeparator());
+                stringBuilder.append("|").append(System.lineSeparator());
             }
             Files.write(path, stringBuilder.toString().getBytes(), StandardOpenOption.APPEND);
         }
     }
-
+    
     private static void writeFile(Path path, List<Image> imagesList) throws IOException {
         writeFile(path, imagesList, region.getCurrentMonthText());
     }
