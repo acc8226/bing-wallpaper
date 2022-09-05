@@ -1,13 +1,13 @@
-![The Riviera of India](https://cn.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg&w=1000)
+![Celebrating workers' fights and rights](https://cn.bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg&w=1000)
 
-[Today: 2022-09-04 | title: The Riviera of India | copyright：Arambol Beach in Goa, India (© Ben Pipe/Alamy)](https://cn.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg)
+[Today: 2022-09-05 | title: Celebrating workers' fights and rights | copyright：Labor Day parade in 1934, Gastonia, North Carolina (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![The Riviera of India](https://cn.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-09-04 [download 4k](https://cn.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg)| ![A pair of high achievers](https://cn.bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-09-03 [download 4k](https://cn.bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg)| ![This magical beach is worth the hike](https://cn.bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-09-02 [download 4k](https://cn.bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg)|
-| ![Who uses this grassy bridge?](https://cn.bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-09-01 [download 4k](https://cn.bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg)|
+| ![Celebrating workers' fights and rights](https://cn.bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-09-05 [download 4k](https://cn.bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg)| ![The Riviera of India](https://cn.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-09-04 [download 4k](https://cn.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg)| ![A pair of high achievers](https://cn.bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-09-03 [download 4k](https://cn.bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg)|
+| ![This magical beach is worth the hike](https://cn.bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-09-02 [download 4k](https://cn.bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg)| ![Who uses this grassy bridge?](https://cn.bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-09-01 [download 4k](https://cn.bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg)|
 
 ## archives
 
