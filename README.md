@@ -1,12 +1,12 @@
-![Spirit of the Puffing Wind](https://cn.bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg&w=1000)
+![The oldest way to fly](https://cn.bing.com/th?id=OHR.LotsOBalloons_EN-US8236203600_UHD.jpg&w=1000)
 
-[Today: 2022-10-01 | title: Spirit of the Puffing Wind | copyright：Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg)
+[Today: 2022-10-02 | title: The oldest way to fly | copyright：Hot air balloons at the Albuquerque International Balloon Fiesta in Albuquerque, New Mexico (© gmeland/Shutterstock)](https://cn.bing.com/th?id=OHR.LotsOBalloons_EN-US8236203600_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Spirit of the Puffing Wind](https://cn.bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-10-01 [download 4k](https://cn.bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![The oldest way to fly](https://cn.bing.com/th?id=OHR.LotsOBalloons_EN-US8236203600_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-10-02 [download 4k](https://cn.bing.com/th?id=OHR.LotsOBalloons_EN-US8236203600_UHD.jpg)| ![Spirit of the Puffing Wind](https://cn.bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-10-01 [download 4k](https://cn.bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg)|
 
 ## archives
 
