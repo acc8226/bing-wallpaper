@@ -1,12 +1,12 @@
-![What are they celebrating?](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg&w=1000)
+!['If it's a failure, I'll probably leave this country'](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg&w=1000)
 
-[Today: 2022-11-01 | title: What are they celebrating? | copyright：Skeleton figures (calacas) dressed up for Día de los Muertos celebrations in Mexico (© Amelia Fuentes Marin/Getty Images)](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg)
+[Today: 2022-11-02 | title: 'If it's a failure, I'll probably leave this country' | copyright：The Hughes H-4 Hercules, aka the Spruce Goose, November 1947, Long Beach Harbor, California (© J R Eyerman/Shutterstock)](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![What are they celebrating?](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-11-01 [download 4k](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| !['If it's a failure, I'll probably leave this country'](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-11-02 [download 4k](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg)| ![What are they celebrating?](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-11-01 [download 4k](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg)|
 
 ## archives
 
