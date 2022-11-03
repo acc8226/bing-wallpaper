@@ -1,12 +1,12 @@
-!['If it's a failure, I'll probably leave this country'](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg&w=1000)
+![An experiment in sustainability](https://cn.bing.com/th?id=OHR.AmboseliBioshere_EN-US9391999022_UHD.jpg&w=1000)
 
-[Today: 2022-11-02 | title: 'If it's a failure, I'll probably leave this country' | copyright：The Hughes H-4 Hercules, aka the Spruce Goose, November 1947, Long Beach Harbor, California (© J R Eyerman/Shutterstock)](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg)
+[Today: 2022-11-03 | title: An experiment in sustainability | copyright：Mount Kilimanjaro with Cape buffaloes in foreground, Amboseli Biosphere Reserve, Kenya (© RealityImages/Shutterstock)](https://cn.bing.com/th?id=OHR.AmboseliBioshere_EN-US9391999022_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| !['If it's a failure, I'll probably leave this country'](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-11-02 [download 4k](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg)| ![What are they celebrating?](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-11-01 [download 4k](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![An experiment in sustainability](https://cn.bing.com/th?id=OHR.AmboseliBioshere_EN-US9391999022_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-11-03 [download 4k](https://cn.bing.com/th?id=OHR.AmboseliBioshere_EN-US9391999022_UHD.jpg)| !['If it's a failure, I'll probably leave this country'](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-11-02 [download 4k](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg)| ![What are they celebrating?](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-11-01 [download 4k](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg)|
 
 ## archives
 
