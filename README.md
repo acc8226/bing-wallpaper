@@ -1,12 +1,13 @@
-![An experiment in sustainability](https://cn.bing.com/th?id=OHR.AmboseliBioshere_EN-US9391999022_UHD.jpg&w=1000)
+![Tomb of the Golden Pharaoh](https://cn.bing.com/th?id=OHR.Deities_EN-US8555427337_UHD.jpg&w=1000)
 
-[Today: 2022-11-03 | title: An experiment in sustainability | copyright：Mount Kilimanjaro with Cape buffaloes in foreground, Amboseli Biosphere Reserve, Kenya (© RealityImages/Shutterstock)](https://cn.bing.com/th?id=OHR.AmboseliBioshere_EN-US9391999022_UHD.jpg)
+[Today: 2022-11-04 | title: Tomb of the Golden Pharaoh | copyright：Depiction of deities from the Tomb of Tutankhamun at the Egyptian Museum, Cairo, Egypt (© Stefan Lippmann/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.Deities_EN-US8555427337_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![An experiment in sustainability](https://cn.bing.com/th?id=OHR.AmboseliBioshere_EN-US9391999022_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-11-03 [download 4k](https://cn.bing.com/th?id=OHR.AmboseliBioshere_EN-US9391999022_UHD.jpg)| !['If it's a failure, I'll probably leave this country'](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-11-02 [download 4k](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg)| ![What are they celebrating?](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-11-01 [download 4k](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg)|
+| ![Tomb of the Golden Pharaoh](https://cn.bing.com/th?id=OHR.Deities_EN-US8555427337_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-11-04 [download 4k](https://cn.bing.com/th?id=OHR.Deities_EN-US8555427337_UHD.jpg)| ![An experiment in sustainability](https://cn.bing.com/th?id=OHR.AmboseliBioshere_EN-US9391999022_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-11-03 [download 4k](https://cn.bing.com/th?id=OHR.AmboseliBioshere_EN-US9391999022_UHD.jpg)| !['If it's a failure, I'll probably leave this country'](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-11-02 [download 4k](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg)|
+| ![What are they celebrating?](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-11-01 [download 4k](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg)|
 
 ## archives
 
