@@ -1,12 +1,12 @@
-![The other continent down under](https://cn.bing.com/th?id=OHR.AntarcticaDay_EN-US9921573438_UHD.jpg&w=1000)
+![Preserving Alaska's natural beauty](https://cn.bing.com/th?id=OHR.BraidedRiverDelta_EN-US0693594934_UHD.jpg&w=1000)
 
-[Today: 2022-12-01 | title: The other continent down under | copyright：Paradise Harbour, Antarctica (© SinghaphanAllB/Getty Images)](https://cn.bing.com/th?id=OHR.AntarcticaDay_EN-US9921573438_UHD.jpg)
+[Today: 2022-12-02 | title: Preserving Alaska's natural beauty | copyright：Tlikakila River Delta in Lake Clark National Park, Alaska (© Dawn Wilson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BraidedRiverDelta_EN-US0693594934_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![The other continent down under](https://cn.bing.com/th?id=OHR.AntarcticaDay_EN-US9921573438_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-12-01 [download 4k](https://cn.bing.com/th?id=OHR.AntarcticaDay_EN-US9921573438_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Preserving Alaska's natural beauty](https://cn.bing.com/th?id=OHR.BraidedRiverDelta_EN-US0693594934_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-12-02 [download 4k](https://cn.bing.com/th?id=OHR.BraidedRiverDelta_EN-US0693594934_UHD.jpg)| ![The other continent down under](https://cn.bing.com/th?id=OHR.AntarcticaDay_EN-US9921573438_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2022-12-01 [download 4k](https://cn.bing.com/th?id=OHR.AntarcticaDay_EN-US9921573438_UHD.jpg)|
 
 ## archives
 
