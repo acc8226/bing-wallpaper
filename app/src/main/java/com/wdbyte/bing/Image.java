@@ -8,7 +8,6 @@ import java.util.Objects;
 /**
  * @author niujinpeng
  * @date 2021/02/08
- * @link https://github.com/niumoo
  */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Image implements Comparable<Image> {
@@ -44,8 +43,12 @@ public class Image implements Comparable<Image> {
      */
     public String largeImg(String todayFormat, String titleFormat, String copyrightFormat) {
         String smallUrl = url + "&w=1000";
-        return String.format("![%s](%s)" + System.lineSeparator() + System.lineSeparator() + "[%s%s | %s%s | %s%s](%s)" + System.lineSeparator() + System.lineSeparator(),
-                title, smallUrl, todayFormat, endDateStr, titleFormat, title, copyrightFormat, copyright, url);
+        return String.format("![%s](%s)"
+                        + System.lineSeparator() + System.lineSeparator()
+                        + "%s%s | %s%s | %s%s [download 4k](%s)"
+                        + System.lineSeparator() + System.lineSeparator(),
+                title, smallUrl,
+                todayFormat, endDateStr, titleFormat, title, copyrightFormat, copyright, url);
     }
 
     /**
@@ -118,9 +121,7 @@ public class Image implements Comparable<Image> {
     @Override
     public String toString() {
         return "Image{" +
-                "endDateStr='" + endDateStr + '\'' +
-                ", url='" + url + '\'' +
-                ", title='" + title + '\'' +
+                "url='" + url + '\'' +
                 ", copyright='" + copyright + '\'' +
                 '}';
     }
