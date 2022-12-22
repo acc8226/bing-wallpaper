@@ -25,8 +25,7 @@ public class FileUtils {
 
     private static final ObjectMapper MAPPER = new ObjectMapper();
 
-    private static final String ARCHIVE_LOCAL_URL = "https://gitee.com/kaiLee/bing-wallpaper/blob/main/%s%s.md";
-    private static final String ARCHIVE_GITHUB_URL = "https://github.com/acc8226/bing-wallpaper/tree/main/%s%s.md";
+    private static final String ARCHIVE_GITHUB_URL = "./%s%s.md";
 
     private static IRegion region;
 
