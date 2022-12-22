@@ -1,6 +1,6 @@
 ![Rainbow around the sun](https://cn.bing.com/th?id=OHR.SolarHalo_EN-US5994527098_UHD.jpg&w=1000)
 
-[Today: 2022-12-21 | title: Rainbow around the sun | copyright：Sun halo over Lake Antermoia in the Dolomite Mountains of Italy (© Walter Donega/Getty Images)](https://cn.bing.com/th?id=OHR.SolarHalo_EN-US5994527098_UHD.jpg)
+Today: 2022-12-21 | title: Rainbow around the sun | copyright：Sun halo over Lake Antermoia in the Dolomite Mountains of Italy (© Walter Donega/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.SolarHalo_EN-US5994527098_UHD.jpg)
 
 ## bing wallpaper(current month)
 
