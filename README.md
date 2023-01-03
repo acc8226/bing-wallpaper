@@ -1,12 +1,12 @@
-![Napping near the North Pole](https://cn.bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_UHD.jpg&w=1000)
+![Fit for a fairy tale](https://cn.bing.com/th?id=OHR.HohenzollernBurg_EN-US3949412118_UHD.jpg&w=1000)
 
-Today: 2023-01-01 | title: Napping near the North Pole | copyright：Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_UHD.jpg)
+Today: 2023-01-02 | title: Fit for a fairy tale | copyright：Hohenzollern Castle, Germany (© Sahara Prince/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.HohenzollernBurg_EN-US3949412118_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Napping near the North Pole](https://cn.bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-01-01 [download 4k](https://cn.bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Fit for a fairy tale](https://cn.bing.com/th?id=OHR.HohenzollernBurg_EN-US3949412118_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-01-02 [download 4k](https://cn.bing.com/th?id=OHR.HohenzollernBurg_EN-US3949412118_UHD.jpg)| ![Napping near the North Pole](https://cn.bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-01-01 [download 4k](https://cn.bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_UHD.jpg)|
 
 ## archives
 
