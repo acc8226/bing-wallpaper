@@ -1,12 +1,13 @@
-![Warmly embracing winter](https://cn.bing.com/th?id=OHR.QuebecFrontenac_EN-US3034032069_UHD.jpg&w=1000)
+![Remembering Rosa Parks](https://cn.bing.com/th?id=OHR.RosaParksBus_EN-US3109740887_UHD.jpg&w=1000)
 
-Today: 2023-02-03 | title: Warmly embracing winter | copyright：Château Frontenac, Quebec City, Canada (© Romiana Lee/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.QuebecFrontenac_EN-US3034032069_UHD.jpg)
+Today: 2023-02-04 | title: Remembering Rosa Parks | copyright：Rosa Parks sits in the front of a bus in Montgomery, Alabama, Dec 21, 1956 (© Bettmann Archive/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.RosaParksBus_EN-US3109740887_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Warmly embracing winter](https://cn.bing.com/th?id=OHR.QuebecFrontenac_EN-US3034032069_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-02-03 [download 4k](https://cn.bing.com/th?id=OHR.QuebecFrontenac_EN-US3034032069_UHD.jpg)| ![Signs of spring?](https://cn.bing.com/th?id=OHR.GroundhogThree_EN-US2975789647_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-02-02 [download 4k](https://cn.bing.com/th?id=OHR.GroundhogThree_EN-US2975789647_UHD.jpg)| ![Courage and conviction](https://cn.bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-02-01 [download 4k](https://cn.bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg)|
+| ![Remembering Rosa Parks](https://cn.bing.com/th?id=OHR.RosaParksBus_EN-US3109740887_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-02-04 [download 4k](https://cn.bing.com/th?id=OHR.RosaParksBus_EN-US3109740887_UHD.jpg)| ![Warmly embracing winter](https://cn.bing.com/th?id=OHR.QuebecFrontenac_EN-US3034032069_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-02-03 [download 4k](https://cn.bing.com/th?id=OHR.QuebecFrontenac_EN-US3034032069_UHD.jpg)| ![Signs of spring?](https://cn.bing.com/th?id=OHR.GroundhogThree_EN-US2975789647_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-02-02 [download 4k](https://cn.bing.com/th?id=OHR.GroundhogThree_EN-US2975789647_UHD.jpg)|
+| ![Courage and conviction](https://cn.bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-02-01 [download 4k](https://cn.bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg)|
 
 ## archives
 
