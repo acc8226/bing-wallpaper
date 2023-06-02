@@ -1,12 +1,12 @@
-![Blue as far as the eye can see](https://cn.bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg&w=1000)
+![Hello? Anybody else out here?](https://cn.bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_UHD.jpg&w=1000)
 
-Today: 2023-06-01 | title: Blue as far as the eye can see | copyright：Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency) [download 4k](https://cn.bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg)
+Today: 2023-06-02 | title: Hello? Anybody else out here? | copyright：Gemsbok (Oryx gazella) in sand dunes, Namibia (© Sergey Gorshkov/Minden) [download 4k](https://cn.bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Blue as far as the eye can see](https://cn.bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-06-01 [download 4k](https://cn.bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Hello? Anybody else out here?](https://cn.bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-06-02 [download 4k](https://cn.bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_UHD.jpg)| ![Blue as far as the eye can see](https://cn.bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-06-01 [download 4k](https://cn.bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg)|
 
 ## archives
 
