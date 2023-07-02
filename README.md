@@ -1,12 +1,12 @@
-![Ready for the Grand Départ?](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&w=1000)
+![We're halfway there](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg&w=1000)
 
-Today: 2023-07-01 | title: Ready for the Grand Départ? | copyright：Tour de France cyclists crossing the Pont du Gard, France (© Gonzalo Fuentes/Reuters) [download 4k](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg)
+Today: 2023-07-02 | title: We're halfway there | copyright：Veluwemeer Aqueduct, Netherlands (© Frolova_Elena/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Ready for the Grand Départ?](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-01 [download 4k](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![We're halfway there](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-02 [download 4k](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg)| ![Ready for the Grand Départ?](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-01 [download 4k](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg)|
 
 ## archives
 
