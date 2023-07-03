@@ -1,12 +1,12 @@
-![We're halfway there](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg&w=1000)
+![Hot enough to howl](https://cn.bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg&w=1000)
 
-Today: 2023-07-02 | title: We're halfway there | copyright：Veluwemeer Aqueduct, Netherlands (© Frolova_Elena/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg)
+Today: 2023-07-03 | title: Hot enough to howl | copyright：A coyote in Banff, Alberta, Canada (© Harry Collins/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![We're halfway there](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-02 [download 4k](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg)| ![Ready for the Grand Départ?](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-01 [download 4k](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![Hot enough to howl](https://cn.bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-03 [download 4k](https://cn.bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg)| ![We're halfway there](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-02 [download 4k](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg)| ![Ready for the Grand Départ?](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-01 [download 4k](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg)|
 
 ## archives
 
