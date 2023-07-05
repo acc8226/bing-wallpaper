@@ -1,13 +1,13 @@
-![Happy Independence Day!](https://cn.bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg&w=1000)
+![Pick your paradise](https://cn.bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg&w=1000)
 
-Today: 2023-07-04 | title: Happy Independence Day! | copyright：Empire State Building on the Fourth of July, New York City (© Tetra Images/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg)
+Today: 2023-07-05 | title: Pick your paradise | copyright：Porto Timoni beach, Corfu, Greece (© nantonov/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Happy Independence Day!](https://cn.bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-04 [download 4k](https://cn.bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg)| ![Hot enough to howl](https://cn.bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-03 [download 4k](https://cn.bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg)| ![We're halfway there](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-02 [download 4k](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg)|
-| ![Ready for the Grand Départ?](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-01 [download 4k](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg)|
+| ![Pick your paradise](https://cn.bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-05 [download 4k](https://cn.bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg)| ![Happy Independence Day!](https://cn.bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-04 [download 4k](https://cn.bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg)| ![Hot enough to howl](https://cn.bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-03 [download 4k](https://cn.bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg)|
+| ![We're halfway there](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-02 [download 4k](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg)| ![Ready for the Grand Départ?](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-01 [download 4k](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg)|
 
 ## archives
 
