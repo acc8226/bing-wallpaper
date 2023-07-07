@@ -1,13 +1,14 @@
-![A peck between penguins](https://cn.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg&w=1000)
+![A chocolate lover's favorite fruit](https://cn.bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg&w=1000)
 
-Today: 2023-07-06 | title: A peck between penguins | copyright：Southern rockhopper penguins, Falkland Islands (© Tony Beck/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg)
+Today: 2023-07-07 | title: A chocolate lover's favorite fruit | copyright：Cocoa pods from Ambanja, Madagascar (© pierivb/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![A peck between penguins](https://cn.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-06 [download 4k](https://cn.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg)| ![Pick your paradise](https://cn.bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-05 [download 4k](https://cn.bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg)| ![Happy Independence Day!](https://cn.bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-04 [download 4k](https://cn.bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg)|
-| ![Hot enough to howl](https://cn.bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-03 [download 4k](https://cn.bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg)| ![We're halfway there](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-02 [download 4k](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg)| ![Ready for the Grand Départ?](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-01 [download 4k](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg)|
+| ![A chocolate lover's favorite fruit](https://cn.bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-07 [download 4k](https://cn.bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg)| ![A peck between penguins](https://cn.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-06 [download 4k](https://cn.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg)| ![Pick your paradise](https://cn.bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-05 [download 4k](https://cn.bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg)|
+| ![Happy Independence Day!](https://cn.bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-04 [download 4k](https://cn.bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg)| ![Hot enough to howl](https://cn.bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-03 [download 4k](https://cn.bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg)| ![We're halfway there](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-02 [download 4k](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg)|
+| ![Ready for the Grand Départ?](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-07-01 [download 4k](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg)|
 
 ## archives
 
