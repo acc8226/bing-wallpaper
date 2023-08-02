@@ -1,12 +1,12 @@
-![There's no denying the power of Denali](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&w=1000)
+![Sandstone butte-iful](https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg&w=1000)
 
-Today: 2023-08-01 | title: There's no denying the power of Denali | copyright：Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills + Motion) [download 4k](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg)
+Today: 2023-08-02 | title: Sandstone butte-iful | copyright：Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![There's no denying the power of Denali](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-08-01 [download 4k](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Sandstone butte-iful](https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-08-02 [download 4k](https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg)| ![There's no denying the power of Denali](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-08-01 [download 4k](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg)|
 
 ## archives
 
