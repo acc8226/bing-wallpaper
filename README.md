@@ -1,12 +1,13 @@
-![A lake that never freezes](https://cn.bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_UHD.jpg&w=1000)
+![A window on the past](https://cn.bing.com/th?id=OHR.GothicRuins_EN-US2341737381_UHD.jpg&w=1000)
 
-Today: 2023-08-03 | title: A lake that never freezes | copyright：Zelenci Nature Reserve, Slovenia (© Andrey Danilovich/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_UHD.jpg)
+Today: 2023-08-04 | title: A window on the past | copyright：Tintern Abbey, Wales (© matthibcn/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.GothicRuins_EN-US2341737381_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![A lake that never freezes](https://cn.bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-08-03 [download 4k](https://cn.bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_UHD.jpg)| ![Sandstone butte-iful](https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-08-02 [download 4k](https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg)| ![There's no denying the power of Denali](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-08-01 [download 4k](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg)|
+| ![A window on the past](https://cn.bing.com/th?id=OHR.GothicRuins_EN-US2341737381_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-08-04 [download 4k](https://cn.bing.com/th?id=OHR.GothicRuins_EN-US2341737381_UHD.jpg)| ![A lake that never freezes](https://cn.bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-08-03 [download 4k](https://cn.bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_UHD.jpg)| ![Sandstone butte-iful](https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-08-02 [download 4k](https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg)|
+| ![There's no denying the power of Denali](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-08-01 [download 4k](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg)|
 
 ## archives
 
