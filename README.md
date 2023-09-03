@@ -1,12 +1,12 @@
-![Stopping for a blossom beverage](https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg&w=1000)
+![So high they touch the sky](https://cn.bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg&w=1000)
 
-Today: 2023-09-02 | title: Stopping for a blossom beverage | copyright：Allen's hummingbird, Santa Cruz, California (© mallardg500/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg)
+Today: 2023-09-03 | title: So high they touch the sky | copyright：Aerial view of Manhattan, New York City (© Wojtek Zagorski/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![Stopping for a blossom beverage](https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-09-02 [download 4k](https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg)| ![Wanna hang with a fungi?](https://cn.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-09-01 [download 4k](https://cn.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![So high they touch the sky](https://cn.bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-09-03 [download 4k](https://cn.bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg)| ![Stopping for a blossom beverage](https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-09-02 [download 4k](https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg)| ![Wanna hang with a fungi?](https://cn.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-09-01 [download 4k](https://cn.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg)|
 
 ## archives
 
