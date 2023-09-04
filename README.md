@@ -1,12 +1,13 @@
-![So high they touch the sky](https://cn.bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg&w=1000)
+![Time to clock out](https://cn.bing.com/th?id=OHR.LaborDayWorkers_EN-US3448430770_UHD.jpg&w=1000)
 
-Today: 2023-09-03 | title: So high they touch the sky | copyright：Aerial view of Manhattan, New York City (© Wojtek Zagorski/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg)
+Today: 2023-09-04 | title: Time to clock out | copyright：Construction workers on scaffolding (© Bits and Splits/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.LaborDayWorkers_EN-US3448430770_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![So high they touch the sky](https://cn.bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-09-03 [download 4k](https://cn.bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg)| ![Stopping for a blossom beverage](https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-09-02 [download 4k](https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg)| ![Wanna hang with a fungi?](https://cn.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-09-01 [download 4k](https://cn.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg)|
+| ![Time to clock out](https://cn.bing.com/th?id=OHR.LaborDayWorkers_EN-US3448430770_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-09-04 [download 4k](https://cn.bing.com/th?id=OHR.LaborDayWorkers_EN-US3448430770_UHD.jpg)| ![So high they touch the sky](https://cn.bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-09-03 [download 4k](https://cn.bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg)| ![Stopping for a blossom beverage](https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-09-02 [download 4k](https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg)|
+| ![Wanna hang with a fungi?](https://cn.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-09-01 [download 4k](https://cn.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg)|
 
 ## archives
 
