@@ -1,12 +1,12 @@
-![Awake to the lake](https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg&w=1000)
+![A fashionista art center](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg&w=1000)
 
-Today: 2023-10-01 | title: Awake to the lake | copyright：Lake Bled at sunrise, Slovenia (© Rasica/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg)
+Today: 2023-10-02 | title: A fashionista art center | copyright：Louis Vuitton Foundation in the Bois de Boulogne, Paris, France (© Atlantide Phototravel/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Awake to the lake](https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-01 [download 4k](https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![A fashionista art center](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-02 [download 4k](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg)| ![Awake to the lake](https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-01 [download 4k](https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg)|
 
 ## archives
 
