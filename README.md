@@ -1,12 +1,12 @@
-![A fashionista art center](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg&w=1000)
+![Whitsunday wanderlust](https://cn.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg&w=1000)
 
-Today: 2023-10-02 | title: A fashionista art center | copyright：Louis Vuitton Foundation in the Bois de Boulogne, Paris, France (© Atlantide Phototravel/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg)
+Today: 2023-10-03 | title: Whitsunday wanderlust | copyright：Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![A fashionista art center](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-02 [download 4k](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg)| ![Awake to the lake](https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-01 [download 4k](https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![Whitsunday wanderlust](https://cn.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-03 [download 4k](https://cn.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg)| ![A fashionista art center](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-02 [download 4k](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg)| ![Awake to the lake](https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-01 [download 4k](https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg)|
 
 ## archives
 
