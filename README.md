@@ -1,13 +1,13 @@
-![Here's how it's done!](https://cn.bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg&w=1000)
+![Nature's majesty awaits!](https://cn.bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg&w=1000)
 
-Today: 2023-10-05 | title: Here's how it's done! | copyright：Gentoo penguins, Antarctica (© Art Wolfe/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg)
+Today: 2023-10-06 | title: Nature's majesty awaits! | copyright：Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Here's how it's done!](https://cn.bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-05 [download 4k](https://cn.bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg)| ![A galactic spider's web](https://cn.bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-04 [download 4k](https://cn.bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg)| ![Whitsunday wanderlust](https://cn.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-03 [download 4k](https://cn.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg)|
-| ![A fashionista art center](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-02 [download 4k](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg)| ![Awake to the lake](https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-01 [download 4k](https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg)|
+| ![Nature's majesty awaits!](https://cn.bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-06 [download 4k](https://cn.bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg)| ![Here's how it's done!](https://cn.bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-05 [download 4k](https://cn.bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg)| ![A galactic spider's web](https://cn.bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-04 [download 4k](https://cn.bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg)|
+| ![Whitsunday wanderlust](https://cn.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-03 [download 4k](https://cn.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg)| ![A fashionista art center](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-02 [download 4k](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg)| ![Awake to the lake](https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-10-01 [download 4k](https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg)|
 
 ## archives
 
