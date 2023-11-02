@@ -1,12 +1,12 @@
-![Honoring the legacy of our first cultures](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&w=1000)
+![This park is worth its salt](https://cn.bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg&w=1000)
 
-Today: 2023-11-01 | title: Honoring the legacy of our first cultures | copyright：Mummy Cave ruins, Canyon de Chelly National Monument, Arizona (© Cindy Miller Hopkins/Danita Delimont) [download 4k](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg)
+Today: 2023-11-02 | title: This park is worth its salt | copyright：Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/Tandem Stills + Motion) [download 4k](https://cn.bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Honoring the legacy of our first cultures](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-01 [download 4k](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![This park is worth its salt](https://cn.bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-02 [download 4k](https://cn.bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg)| ![Honoring the legacy of our first cultures](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-01 [download 4k](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg)|
 
 ## archives
 
