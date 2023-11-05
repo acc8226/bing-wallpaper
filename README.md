@@ -1,13 +1,13 @@
-![Built for the cold](https://cn.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg&w=1000)
+![A quiet place, indeed](https://cn.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg&w=1000)
 
-Today: 2023-11-04 | title: Built for the cold | copyright：American bison, Yellowstone National Park, Wyoming (© Gary Gray/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg)
+Today: 2023-11-05 | title: A quiet place, indeed | copyright：Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delobelle/Minden Pictures) [download 4k](https://cn.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Built for the cold](https://cn.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-04 [download 4k](https://cn.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg)| ![An illuminated bloom](https://cn.bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-03 [download 4k](https://cn.bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg)| ![This park is worth its salt](https://cn.bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-02 [download 4k](https://cn.bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg)|
-| ![Honoring the legacy of our first cultures](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-01 [download 4k](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg)|
+| ![A quiet place, indeed](https://cn.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-05 [download 4k](https://cn.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg)| ![Built for the cold](https://cn.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-04 [download 4k](https://cn.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg)| ![An illuminated bloom](https://cn.bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-03 [download 4k](https://cn.bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg)|
+| ![This park is worth its salt](https://cn.bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-02 [download 4k](https://cn.bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg)| ![Honoring the legacy of our first cultures](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-01 [download 4k](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg)|
 
 ## archives
 
