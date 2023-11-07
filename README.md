@@ -1,13 +1,14 @@
-![Catching rays in Torres del Paine](https://cn.bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg&w=1000)
+![Lookout above!](https://cn.bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg&w=1000)
 
-Today: 2023-11-06 | title: Catching rays in Torres del Paine | copyright：Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg)
+Today: 2023-11-07 | title: Lookout above! | copyright：Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Catching rays in Torres del Paine](https://cn.bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-06 [download 4k](https://cn.bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg)| ![A quiet place, indeed](https://cn.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-05 [download 4k](https://cn.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg)| ![Built for the cold](https://cn.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-04 [download 4k](https://cn.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg)|
-| ![An illuminated bloom](https://cn.bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-03 [download 4k](https://cn.bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg)| ![This park is worth its salt](https://cn.bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-02 [download 4k](https://cn.bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg)| ![Honoring the legacy of our first cultures](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-01 [download 4k](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg)|
+| ![Lookout above!](https://cn.bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-07 [download 4k](https://cn.bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg)| ![Catching rays in Torres del Paine](https://cn.bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-06 [download 4k](https://cn.bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg)| ![A quiet place, indeed](https://cn.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-05 [download 4k](https://cn.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg)|
+| ![Built for the cold](https://cn.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-04 [download 4k](https://cn.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg)| ![An illuminated bloom](https://cn.bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-03 [download 4k](https://cn.bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg)| ![This park is worth its salt](https://cn.bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-02 [download 4k](https://cn.bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg)|
+| ![Honoring the legacy of our first cultures](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-11-01 [download 4k](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg)|
 
 ## archives
 
