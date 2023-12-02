@@ -1,12 +1,12 @@
-![Celebrating the coolest place!](https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg&w=1000)
+![A city within a city](https://cn.bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg&w=1000)
 
-Today: 2023-12-01 | title: Celebrating the coolest place! | copyright：Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures) [download 4k](https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg)
+Today: 2023-12-02 | title: A city within a city | copyright：North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Travel Lifestyle/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Celebrating the coolest place!](https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-12-01 [download 4k](https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![A city within a city](https://cn.bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-12-02 [download 4k](https://cn.bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg)| ![Celebrating the coolest place!](https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-12-01 [download 4k](https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg)|
 
 ## archives
 
