@@ -1,12 +1,13 @@
-![Sculpted by time](https://cn.bing.com/th?id=OHR.VermilionCliffs_EN-US9543863428_UHD.jpg&w=1000)
+![Masters of agility and cuteness](https://cn.bing.com/th?id=OHR.CheetahDay_EN-US6775219587_UHD.jpg&w=1000)
 
-Today: 2023-12-03 | title: Sculpted by time | copyright：Sandstone rock formations, Vermilion Cliffs National Monument, Arizona (© Yva Momatiuk and John Eastcott/Minden Pictures) [download 4k](https://cn.bing.com/th?id=OHR.VermilionCliffs_EN-US9543863428_UHD.jpg)
+Today: 2023-12-04 | title: Masters of agility and cuteness | copyright：A mother cheetah and her cubs in the Maasai Mara National Reserve, Kenya (© Scott Davis/Tandem Stills + Motion) [download 4k](https://cn.bing.com/th?id=OHR.CheetahDay_EN-US6775219587_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Sculpted by time](https://cn.bing.com/th?id=OHR.VermilionCliffs_EN-US9543863428_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-12-03 [download 4k](https://cn.bing.com/th?id=OHR.VermilionCliffs_EN-US9543863428_UHD.jpg)| ![A city within a city](https://cn.bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-12-02 [download 4k](https://cn.bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg)| ![Celebrating the coolest place!](https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-12-01 [download 4k](https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg)|
+| ![Masters of agility and cuteness](https://cn.bing.com/th?id=OHR.CheetahDay_EN-US6775219587_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-12-04 [download 4k](https://cn.bing.com/th?id=OHR.CheetahDay_EN-US6775219587_UHD.jpg)| ![Sculpted by time](https://cn.bing.com/th?id=OHR.VermilionCliffs_EN-US9543863428_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-12-03 [download 4k](https://cn.bing.com/th?id=OHR.VermilionCliffs_EN-US9543863428_UHD.jpg)| ![A city within a city](https://cn.bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-12-02 [download 4k](https://cn.bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg)|
+| ![Celebrating the coolest place!](https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2023-12-01 [download 4k](https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg)|
 
 ## archives
 
