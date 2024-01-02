@@ -1,12 +1,12 @@
-![Wake up, it's 2024!](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&w=1000)
+![Make your own rainbow](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg&w=1000)
 
-Today: 2024-01-01 | title: Wake up, it's 2024! | copyright：Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg)
+Today: 2024-01-02 | title: Make your own rainbow | copyright：Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com) [download 4k](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Wake up, it's 2024!](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-01-01 [download 4k](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Make your own rainbow](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-01-02 [download 4k](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg)| ![Wake up, it's 2024!](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-01-01 [download 4k](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg)|
 
 ## archives
 
