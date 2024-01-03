@@ -1,12 +1,12 @@
-![Make your own rainbow](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg&w=1000)
+![One library to rule them all](https://cn.bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg&w=1000)
 
-Today: 2024-01-02 | title: Make your own rainbow | copyright：Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com) [download 4k](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg)
+Today: 2024-01-03 | title: One library to rule them all | copyright：Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![Make your own rainbow](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-01-02 [download 4k](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg)| ![Wake up, it's 2024!](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-01-01 [download 4k](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![One library to rule them all](https://cn.bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-01-03 [download 4k](https://cn.bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg)| ![Make your own rainbow](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-01-02 [download 4k](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg)| ![Wake up, it's 2024!](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-01-01 [download 4k](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg)|
 
 ## archives
 
