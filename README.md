@@ -1,12 +1,12 @@
-![And the march goes on](https://cn.bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg&w=1000)
+![A slice of Sicily](https://cn.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg&w=1000)
 
-Today: 2024-03-01 | title: And the march goes on | copyright：Women's suffrage parade on Fifth Avenue, Manhattan, New York City, October 23, 1915 (© Bettmann/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg)
+Today: 2024-03-02 | title: A slice of Sicily | copyright：Modica, Sicily, Italy (© Sandro Bisaro/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![And the march goes on](https://cn.bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-03-01 [download 4k](https://cn.bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![A slice of Sicily](https://cn.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-03-02 [download 4k](https://cn.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg)| ![And the march goes on](https://cn.bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-03-01 [download 4k](https://cn.bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg)|
 
 ## archives
 
