@@ -1,13 +1,13 @@
-![A sleeping beauty](https://cn.bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg&w=1000)
+![Stuck in a loop?](https://cn.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg&w=1000)
 
-Today: 2024-03-04 | title: A sleeping beauty | copyright：Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg)
+Today: 2024-03-05 | title: Stuck in a loop? | copyright：Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![A sleeping beauty](https://cn.bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-03-04 [download 4k](https://cn.bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg)| ![A dappled acrobat](https://cn.bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-03-03 [download 4k](https://cn.bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg)| ![A slice of Sicily](https://cn.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-03-02 [download 4k](https://cn.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg)|
-| ![And the march goes on](https://cn.bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-03-01 [download 4k](https://cn.bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg)|
+| ![Stuck in a loop?](https://cn.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-03-05 [download 4k](https://cn.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg)| ![A sleeping beauty](https://cn.bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-03-04 [download 4k](https://cn.bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg)| ![A dappled acrobat](https://cn.bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-03-03 [download 4k](https://cn.bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg)|
+| ![A slice of Sicily](https://cn.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-03-02 [download 4k](https://cn.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg)| ![And the march goes on](https://cn.bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-03-01 [download 4k](https://cn.bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg)|
 
 ## archives
 
