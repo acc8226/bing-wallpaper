@@ -1,12 +1,12 @@
-![Beneath a ray of light](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg&w=1000)
+![Wish hue were here](https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg&w=1000)
 
-Today: 2024-04-02 | title: Beneath a ray of light | copyright：Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg)
+Today: 2024-04-03 | title: Wish hue were here | copyright：A rainbow in At-Bashy District  , Kakshaal Too Mountains, Naryn Province, Kyrgyzstan (© Emad aljumah/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![Beneath a ray of light](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-02 [download 4k](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg)| ![Don't believe your eyes](https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-01 [download 4k](https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![Wish hue were here](https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-03 [download 4k](https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg)| ![Beneath a ray of light](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-02 [download 4k](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg)| ![Don't believe your eyes](https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-01 [download 4k](https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg)|
 
 ## archives
 
