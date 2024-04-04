@@ -1,12 +1,13 @@
-![Wish hue were here](https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg&w=1000)
+![Wanderers of the wetlands](https://cn.bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_UHD.jpg&w=1000)
 
-Today: 2024-04-03 | title: Wish hue were here | copyright：A rainbow in At-Bashy District  , Kakshaal Too Mountains, Naryn Province, Kyrgyzstan (© Emad aljumah/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg)
+Today: 2024-04-04 | title: Wanderers of the wetlands | copyright：Red lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Suha Derbent/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Wish hue were here](https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-03 [download 4k](https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg)| ![Beneath a ray of light](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-02 [download 4k](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg)| ![Don't believe your eyes](https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-01 [download 4k](https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg)|
+| ![Wanderers of the wetlands](https://cn.bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-04 [download 4k](https://cn.bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_UHD.jpg)| ![Wish hue were here](https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-03 [download 4k](https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg)| ![Beneath a ray of light](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-02 [download 4k](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg)|
+| ![Don't believe your eyes](https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-01 [download 4k](https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg)|
 
 ## archives
 
