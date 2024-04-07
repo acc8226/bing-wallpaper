@@ -1,13 +1,14 @@
-![A royal view](https://cn.bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg&w=1000)
+![Look, I'm a branch manager!](https://cn.bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg&w=1000)
 
-Today: 2024-04-06 | title: A royal view | copyright：Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg)
+Today: 2024-04-07 | title: Look, I'm a branch manager! | copyright：North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![A royal view](https://cn.bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-06 [download 4k](https://cn.bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg)| ![A dive into the blue](https://cn.bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-05 [download 4k](https://cn.bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg)| ![Wanderers of the wetlands](https://cn.bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-04 [download 4k](https://cn.bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_UHD.jpg)|
-| ![Wish hue were here](https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-03 [download 4k](https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg)| ![Beneath a ray of light](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-02 [download 4k](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg)| ![Don't believe your eyes](https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-01 [download 4k](https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg)|
+| ![Look, I'm a branch manager!](https://cn.bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-07 [download 4k](https://cn.bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg)| ![A royal view](https://cn.bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-06 [download 4k](https://cn.bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg)| ![A dive into the blue](https://cn.bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-05 [download 4k](https://cn.bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg)|
+| ![Wanderers of the wetlands](https://cn.bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-04 [download 4k](https://cn.bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_UHD.jpg)| ![Wish hue were here](https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-03 [download 4k](https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg)| ![Beneath a ray of light](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-02 [download 4k](https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg)|
+| ![Don't believe your eyes](https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-04-01 [download 4k](https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg)|
 
 ## archives
 
