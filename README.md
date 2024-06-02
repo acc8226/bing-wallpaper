@@ -1,12 +1,12 @@
-![Pride Month](https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg&w=1000)
+![Mulch ado about gardening](https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg&w=1000)
 
-Today: 2024-06-01 | title: Pride Month | copyright：San Francisco City Hall lit up in rainbow lights for Pride, California (© Josh Edelson/AFP via Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg)
+Today: 2024-06-02 | title: Mulch ado about gardening | copyright：Flowers blooming in a garden, Alaska (© jet 67/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Pride Month](https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-01 [download 4k](https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Mulch ado about gardening](https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-02 [download 4k](https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg)| ![Pride Month](https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-01 [download 4k](https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg)|
 
 ## archives
 
