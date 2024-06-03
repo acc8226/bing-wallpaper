@@ -1,12 +1,12 @@
-![Mulch ado about gardening](https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg&w=1000)
+!['Two' tired for a ride](https://cn.bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg&w=1000)
 
-Today: 2024-06-02 | title: Mulch ado about gardening | copyright：Flowers blooming in a garden, Alaska (© jet 67/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg)
+Today: 2024-06-03 | title: 'Two' tired for a ride | copyright：Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![Mulch ado about gardening](https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-02 [download 4k](https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg)| ![Pride Month](https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-01 [download 4k](https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| !['Two' tired for a ride](https://cn.bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-03 [download 4k](https://cn.bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg)| ![Mulch ado about gardening](https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-02 [download 4k](https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg)| ![Pride Month](https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-01 [download 4k](https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg)|
 
 ## archives
 
