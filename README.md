@@ -1,13 +1,13 @@
-![Birds of a feather](https://cn.bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg&w=1000)
+![World Environment Day](https://cn.bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg&w=1000)
 
-Today: 2024-06-04 | title: Birds of a feather | copyright：Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg)
+Today: 2024-06-05 | title: World Environment Day | copyright：Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Birds of a feather](https://cn.bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-04 [download 4k](https://cn.bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg)| ![Pedal power](https://cn.bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-03 [download 4k](https://cn.bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg)| ![Mulch ado about gardening](https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-02 [download 4k](https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg)|
-| ![Pride Month](https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-01 [download 4k](https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg)|
+| ![World Environment Day](https://cn.bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-05 [download 4k](https://cn.bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg)| ![Birds of a feather](https://cn.bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-04 [download 4k](https://cn.bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg)| ![Pedal power](https://cn.bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-03 [download 4k](https://cn.bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg)|
+| ![Mulch ado about gardening](https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-02 [download 4k](https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg)| ![Pride Month](https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-06-01 [download 4k](https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg)|
 
 ## archives
 
