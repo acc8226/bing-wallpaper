@@ -1,12 +1,12 @@
-![Cheers to Canada!](https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg&w=1000)
+![Ghosts of cities past](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg&w=1000)
 
-Today: 2024-07-01 | title: Cheers to Canada! | copyright：Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada (© davemantel/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg)
+Today: 2024-07-02 | title: Ghosts of cities past | copyright：The Roman amphitheater of Italica, near Seville, Spain (© Moses Palermo/Amazing Aerial Agency) [download 4k](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Cheers to Canada!](https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-01 [download 4k](https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Ghosts of cities past](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-02 [download 4k](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg)| ![Cheers to Canada!](https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-01 [download 4k](https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg)|
 
 ## archives
 
