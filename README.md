@@ -1,12 +1,12 @@
-![Ghosts of cities past](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg&w=1000)
+![Heads up!](https://cn.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg&w=1000)
 
-Today: 2024-07-02 | title: Ghosts of cities past | copyright：The Roman amphitheater of Italica, near Seville, Spain (© Moses Palermo/Amazing Aerial Agency) [download 4k](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg)
+Today: 2024-07-03 | title: Heads up! | copyright：Meerkat family (© anetapics/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![Ghosts of cities past](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-02 [download 4k](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg)| ![Cheers to Canada!](https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-01 [download 4k](https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![Heads up!](https://cn.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-03 [download 4k](https://cn.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg)| ![Ghosts of cities past](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-02 [download 4k](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg)| ![Cheers to Canada!](https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-01 [download 4k](https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg)|
 
 ## archives
 
