@@ -1,13 +1,13 @@
-![Happy Independence Day!](https://cn.bing.com/th?id=OHR.HudsonFireworks_EN-US4304057228_UHD.jpg&w=1000)
+![A coastal encounter](https://cn.bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg&w=1000)
 
-Today: 2024-07-04 | title: Happy Independence Day! | copyright：Fireworks over the Hudson River on the Fourth of July, New York (© New York on Air/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.HudsonFireworks_EN-US4304057228_UHD.jpg)
+Today: 2024-07-05 | title: A coastal encounter | copyright：Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Happy Independence Day!](https://cn.bing.com/th?id=OHR.HudsonFireworks_EN-US4304057228_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-04 [download 4k](https://cn.bing.com/th?id=OHR.HudsonFireworks_EN-US4304057228_UHD.jpg)| ![Heads up!](https://cn.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-03 [download 4k](https://cn.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg)| ![Ghosts of cities past](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-02 [download 4k](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg)|
-| ![Cheers to Canada!](https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-01 [download 4k](https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg)|
+| ![A coastal encounter](https://cn.bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-05 [download 4k](https://cn.bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg)| ![Happy Independence Day!](https://cn.bing.com/th?id=OHR.HudsonFireworks_EN-US4304057228_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-04 [download 4k](https://cn.bing.com/th?id=OHR.HudsonFireworks_EN-US4304057228_UHD.jpg)| ![Heads up!](https://cn.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-03 [download 4k](https://cn.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg)|
+| ![Ghosts of cities past](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-02 [download 4k](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg)| ![Cheers to Canada!](https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-07-01 [download 4k](https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg)|
 
 ## archives
 
