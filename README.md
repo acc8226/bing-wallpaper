@@ -1,12 +1,12 @@
-![There's a boatload of bargains here](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg&w=1000)
+![Somewhere under the rainbow](https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg&w=1000)
 
-Today: 2024-08-01 | title: There's a boatload of bargains here | copyright：Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency) [download 4k](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg)
+Today: 2024-08-02 | title: Somewhere under the rainbow | copyright：Trunk Bay, St. John, Virgin Islands National Park (© cdwheatley/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![There's a boatload of bargains here](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-01 [download 4k](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Somewhere under the rainbow](https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-02 [download 4k](https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg)| ![There's a boatload of bargains here](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-01 [download 4k](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg)|
 
 ## archives
 
