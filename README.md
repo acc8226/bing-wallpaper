@@ -1,13 +1,13 @@
-![You've got a friend in me](https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg&w=1000)
+![A sea of purple](https://cn.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg&w=1000)
 
-Today: 2024-08-04 | title: You've got a friend in me | copyright：Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg)
+Today: 2024-08-05 | title: A sea of purple | copyright：Lavender field, Hertfordshire, England (© George W Johnson/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![You've got a friend in me](https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-04 [download 4k](https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg)| ![Towering over Wulong](https://cn.bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-03 [download 4k](https://cn.bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg)| ![Somewhere under the rainbow](https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-02 [download 4k](https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg)|
-| ![There's a boatload of bargains here](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-01 [download 4k](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg)|
+| ![A sea of purple](https://cn.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-05 [download 4k](https://cn.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg)| ![You've got a friend in me](https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-04 [download 4k](https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg)| ![Towering over Wulong](https://cn.bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-03 [download 4k](https://cn.bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg)|
+| ![Somewhere under the rainbow](https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-02 [download 4k](https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg)| ![There's a boatload of bargains here](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-01 [download 4k](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg)|
 
 ## archives
 
