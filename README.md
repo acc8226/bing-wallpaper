@@ -1,13 +1,14 @@
-![A very pleasant crescent](https://cn.bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg&w=1000)
+![More than nautical necessity](https://cn.bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg&w=1000)
 
-Today: 2024-08-06 | title: A very pleasant crescent | copyright：Molokini Crater, Maui, Hawaii (© Douglas Peebles/eStock Photo) [download 4k](https://cn.bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg)
+Today: 2024-08-07 | title: More than nautical necessity | copyright：St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![A very pleasant crescent](https://cn.bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-06 [download 4k](https://cn.bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg)| ![A sea of purple](https://cn.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-05 [download 4k](https://cn.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg)| ![You've got a friend in me](https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-04 [download 4k](https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg)|
-| ![Towering over Wulong](https://cn.bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-03 [download 4k](https://cn.bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg)| ![Somewhere under the rainbow](https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-02 [download 4k](https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg)| ![There's a boatload of bargains here](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-01 [download 4k](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg)|
+| ![More than nautical necessity](https://cn.bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-07 [download 4k](https://cn.bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg)| ![A very pleasant crescent](https://cn.bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-06 [download 4k](https://cn.bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg)| ![A sea of purple](https://cn.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-05 [download 4k](https://cn.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg)|
+| ![You've got a friend in me](https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-04 [download 4k](https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg)| ![Towering over Wulong](https://cn.bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-03 [download 4k](https://cn.bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg)| ![Somewhere under the rainbow](https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-02 [download 4k](https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg)|
+| ![There's a boatload of bargains here](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-08-01 [download 4k](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg)|
 
 ## archives
 
