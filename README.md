@@ -1,12 +1,12 @@
-![Row your boat gently down the Thames](https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg&w=1000)
+![Workers of the world, relax](https://cn.bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg&w=1000)
 
-Today: 2024-09-01 | title: Row your boat gently down the Thames | copyright：River Thames, London, England (© Puthipong Worasaran/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg)
+Today: 2024-09-02 | title: Workers of the world, relax | copyright：'Power of the Titans' mural by Andrei Krautsou, North Kansas City, Missouri (© Stephen Taylor/Alamy) [download 4k](https://cn.bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Row your boat gently down the Thames](https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-09-01 [download 4k](https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Workers of the world, relax](https://cn.bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-09-02 [download 4k](https://cn.bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg)| ![Row your boat gently down the Thames](https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-09-01 [download 4k](https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg)|
 
 ## archives
 
