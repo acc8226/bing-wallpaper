@@ -1,13 +1,13 @@
-![Birds of a feather hoot together](https://cn.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg&w=1000)
+![Lights, camera, TIFF '24!](https://cn.bing.com/th?id=OHR.TIFF2024_EN-US9586964456_UHD.jpg&w=1000)
 
-Today: 2024-09-04 | title: Birds of a feather hoot together | copyright：Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg)
+Today: 2024-09-05 | title: Lights, camera, TIFF '24! | copyright：Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.TIFF2024_EN-US9586964456_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Birds of a feather hoot together](https://cn.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-09-04 [download 4k](https://cn.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg)| ![Unspoiled beauty for all](https://cn.bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-09-03 [download 4k](https://cn.bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg)| ![Workers of the world, relax](https://cn.bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-09-02 [download 4k](https://cn.bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg)|
-| ![Row your boat gently down the Thames](https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-09-01 [download 4k](https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg)|
+| ![Lights, camera, TIFF '24!](https://cn.bing.com/th?id=OHR.TIFF2024_EN-US9586964456_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-09-05 [download 4k](https://cn.bing.com/th?id=OHR.TIFF2024_EN-US9586964456_UHD.jpg)| ![Birds of a feather hoot together](https://cn.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-09-04 [download 4k](https://cn.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg)| ![Unspoiled beauty for all](https://cn.bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-09-03 [download 4k](https://cn.bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg)|
+| ![Workers of the world, relax](https://cn.bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-09-02 [download 4k](https://cn.bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg)| ![Row your boat gently down the Thames](https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-09-01 [download 4k](https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg)|
 
 ## archives
 
