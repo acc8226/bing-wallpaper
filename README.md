@@ -1,12 +1,12 @@
-![Wind River's wild dance](https://cn.bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg&w=1000)
+![Grand gesture of love](https://cn.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg&w=1000)
 
-Today: 2024-10-02 | title: Wind River's wild dance | copyright：Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska (© Design Pics/Danita Delimont) [download 4k](https://cn.bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg)
+Today: 2024-10-03 | title: Grand gesture of love | copyright：Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![Wind River's wild dance](https://cn.bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-10-02 [download 4k](https://cn.bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg)| ![Dome sweet dome](https://cn.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-10-01 [download 4k](https://cn.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![Grand gesture of love](https://cn.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-10-03 [download 4k](https://cn.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg)| ![Wind River's wild dance](https://cn.bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-10-02 [download 4k](https://cn.bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg)| ![Dome sweet dome](https://cn.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-10-01 [download 4k](https://cn.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg)|
 
 ## archives
 
