@@ -1,13 +1,13 @@
-![Follow the teacher!](https://cn.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg&w=1000)
+![The stone town of Tuscany](https://cn.bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_UHD.jpg&w=1000)
 
-Today: 2024-10-05 | title: Follow the teacher! | copyright：African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures) [download 4k](https://cn.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg)
+Today: 2024-10-06 | title: The stone town of Tuscany | copyright：Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo) [download 4k](https://cn.bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Follow the teacher!](https://cn.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-10-05 [download 4k](https://cn.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg)| ![A blue moon](https://cn.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-10-04 [download 4k](https://cn.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg)| ![Grand gesture of love](https://cn.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-10-03 [download 4k](https://cn.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg)|
-| ![Wind River's wild dance](https://cn.bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-10-02 [download 4k](https://cn.bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg)| ![Dome sweet dome](https://cn.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-10-01 [download 4k](https://cn.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg)|
+| ![The stone town of Tuscany](https://cn.bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-10-06 [download 4k](https://cn.bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_UHD.jpg)| ![Follow the teacher!](https://cn.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-10-05 [download 4k](https://cn.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg)| ![A blue moon](https://cn.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-10-04 [download 4k](https://cn.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg)|
+| ![Grand gesture of love](https://cn.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-10-03 [download 4k](https://cn.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg)| ![Wind River's wild dance](https://cn.bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-10-02 [download 4k](https://cn.bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg)| ![Dome sweet dome](https://cn.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-10-01 [download 4k](https://cn.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg)|
 
 ## archives
 
