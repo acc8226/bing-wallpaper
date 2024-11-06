@@ -1,13 +1,13 @@
-![Out of many, one](https://cn.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg&w=1000)
+![Shades of sunset](https://cn.bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg&w=1000)
 
-Today: 2024-11-05 | title: Out of many, one | copyright：Autumn sunrise over the National Mall, Washington, DC (© WLDavies/iStock/Getty Images Plus) [download 4k](https://cn.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg)
+Today: 2024-11-06 | title: Shades of sunset | copyright：Shi Shi Beach in Olympic National Park, Washington (© T.M. Schultze/TANDEM Stills + Motion) [download 4k](https://cn.bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Out of many, one](https://cn.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-11-05 [download 4k](https://cn.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg)| ![Worth a thousand words](https://cn.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-11-04 [download 4k](https://cn.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg)| ![Nurturing nature](https://cn.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-11-03 [download 4k](https://cn.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg)|
-| ![From near extinction to national icon](https://cn.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-11-02 [download 4k](https://cn.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg)| ![Celebrating America's Native heritage](https://cn.bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-11-01 [download 4k](https://cn.bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg)|
+| ![Shades of sunset](https://cn.bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-11-06 [download 4k](https://cn.bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg)| ![Out of many, one](https://cn.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-11-05 [download 4k](https://cn.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg)| ![Worth a thousand words](https://cn.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-11-04 [download 4k](https://cn.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg)|
+| ![Nurturing nature](https://cn.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-11-03 [download 4k](https://cn.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg)| ![From near extinction to national icon](https://cn.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-11-02 [download 4k](https://cn.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg)| ![Celebrating America's Native heritage](https://cn.bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-11-01 [download 4k](https://cn.bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg)|
 
 ## archives
 
