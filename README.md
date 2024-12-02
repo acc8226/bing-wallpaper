@@ -1,12 +1,12 @@
-![Protecting the last great wilderness](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg&w=1000)
+![A wild stare](https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg&w=1000)
 
-Today: 2024-12-01 | title: Protecting the last great wilderness | copyright：Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com) [download 4k](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg)
+Today: 2024-12-02 | title: A wild stare | copyright：Female moose, Denali National Park, Alaska (© Cavan Images/Alamy) [download 4k](https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Protecting the last great wilderness](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-12-01 [download 4k](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![A wild stare](https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-12-02 [download 4k](https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg)| ![Protecting the last great wilderness](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-12-01 [download 4k](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg)|
 
 ## archives
 
