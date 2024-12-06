@@ -1,13 +1,13 @@
-![The rise of tufa](https://cn.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg&w=1000)
+![Happy birthday, Finland!](https://cn.bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_UHD.jpg&w=1000)
 
-Today: 2024-12-05 | title: The rise of tufa | copyright：Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion) [download 4k](https://cn.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg)
+Today: 2024-12-06 | title: Happy birthday, Finland! | copyright：Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![The rise of tufa](https://cn.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-12-05 [download 4k](https://cn.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg)| ![On the front line of extinction](https://cn.bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-12-04 [download 4k](https://cn.bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg)| ![Pillars of the past](https://cn.bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-12-03 [download 4k](https://cn.bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg)|
-| ![A wild stare](https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-12-02 [download 4k](https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg)| ![Protecting the last great wilderness](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-12-01 [download 4k](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg)|
+| ![Happy birthday, Finland!](https://cn.bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-12-06 [download 4k](https://cn.bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_UHD.jpg)| ![The rise of tufa](https://cn.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-12-05 [download 4k](https://cn.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg)| ![On the front line of extinction](https://cn.bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-12-04 [download 4k](https://cn.bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg)|
+| ![Pillars of the past](https://cn.bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-12-03 [download 4k](https://cn.bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg)| ![A wild stare](https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-12-02 [download 4k](https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg)| ![Protecting the last great wilderness](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2024-12-01 [download 4k](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg)|
 
 ## archives
 
