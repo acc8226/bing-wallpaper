@@ -1,12 +1,12 @@
-![Have an ice New Year's Day](https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg&w=1000)
+![The glistening village](https://cn.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg&w=1000)
 
-Today: 2025-01-01 | title: Have an ice New Year's Day | copyright：Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg)
+Today: 2025-01-02 | title: The glistening village | copyright：Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Have an ice New Year's Day](https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-01-01 [download 4k](https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![The glistening village](https://cn.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-01-02 [download 4k](https://cn.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg)| ![Have an ice New Year's Day](https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-01-01 [download 4k](https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg)|
 
 ## archives
 
