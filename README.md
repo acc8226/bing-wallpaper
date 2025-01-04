@@ -1,12 +1,13 @@
-![Ring in the fun](https://cn.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg&w=1000)
+![A borderline paradise](https://cn.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg&w=1000)
 
-Today: 2025-01-03 | title: Ring in the fun | copyright：The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg)
+Today: 2025-01-04 | title: A borderline paradise | copyright：Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures) [download 4k](https://cn.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Ring in the fun](https://cn.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-01-03 [download 4k](https://cn.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg)| ![The glistening village](https://cn.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-01-02 [download 4k](https://cn.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg)| ![Have an ice New Year's Day](https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-01-01 [download 4k](https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg)|
+| ![A borderline paradise](https://cn.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-01-04 [download 4k](https://cn.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg)| ![Ring in the fun](https://cn.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-01-03 [download 4k](https://cn.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg)| ![The glistening village](https://cn.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-01-02 [download 4k](https://cn.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg)|
+| ![Have an ice New Year's Day](https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-01-01 [download 4k](https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg)|
 
 ## archives
 
