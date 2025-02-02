@@ -1,12 +1,12 @@
-![Roots of freedom](https://cn.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg&w=1000)
+![Weather or not](https://cn.bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg&w=1000)
 
-Today: 2025-02-01 | title: Roots of freedom | copyright：National Museum of African American History & Culture, Washington, DC (© BrianPIrwin/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg)
+Today: 2025-02-02 | title: Weather or not | copyright：Young alpine marmot (© Jonas Fichtner-Pflaum/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Roots of freedom](https://cn.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-02-01 [download 4k](https://cn.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Weather or not](https://cn.bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-02-02 [download 4k](https://cn.bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg)| ![Roots of freedom](https://cn.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-02-01 [download 4k](https://cn.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg)|
 
 ## archives
 
