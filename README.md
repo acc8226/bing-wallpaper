@@ -1,12 +1,13 @@
-![Bridging history, one arch at a time](https://cn.bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg&w=1000)
+![A walk among the clouds](https://cn.bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg&w=1000)
 
-Today: 2025-02-03 | title: Bridging history, one arch at a time | copyright：Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England (© AWL Images/DanitaDelimont.com) [download 4k](https://cn.bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg)
+Today: 2025-02-04 | title: A walk among the clouds | copyright：Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Bridging history, one arch at a time](https://cn.bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-02-03 [download 4k](https://cn.bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg)| ![Weather or not](https://cn.bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-02-02 [download 4k](https://cn.bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg)| ![Roots of freedom](https://cn.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-02-01 [download 4k](https://cn.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg)|
+| ![A walk among the clouds](https://cn.bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-02-04 [download 4k](https://cn.bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg)| ![Bridging history, one arch at a time](https://cn.bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-02-03 [download 4k](https://cn.bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg)| ![Weather or not](https://cn.bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-02-02 [download 4k](https://cn.bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg)|
+| ![Roots of freedom](https://cn.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-02-01 [download 4k](https://cn.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg)|
 
 ## archives
 
