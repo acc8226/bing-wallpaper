@@ -1,12 +1,12 @@
-![Women's History Month](https://cn.bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg&w=1000)
+![A eucalyp-tastic view](https://cn.bing.com/th?id=OHR.EucalyptusForest_EN-US3015819767_UHD.jpg&w=1000)
 
-Today: 2025-03-01 | title: Women's History Month | copyright：Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettmann/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg)
+Today: 2025-03-02 | title: A eucalyp-tastic view | copyright：Eucalyptus trees, Megalong Valley, Blue Mountains National Park, NSW, Australia (© Andrew Peacock/TANDEM Stills + Motion) [download 4k](https://cn.bing.com/th?id=OHR.EucalyptusForest_EN-US3015819767_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Women's History Month](https://cn.bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-03-01 [download 4k](https://cn.bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![A eucalyp-tastic view](https://cn.bing.com/th?id=OHR.EucalyptusForest_EN-US3015819767_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-03-02 [download 4k](https://cn.bing.com/th?id=OHR.EucalyptusForest_EN-US3015819767_UHD.jpg)| ![Women's History Month](https://cn.bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-03-01 [download 4k](https://cn.bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg)|
 
 ## archives
 
