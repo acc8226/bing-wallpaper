@@ -1,13 +1,14 @@
-![Lost in titles](https://cn.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg&w=1000)
+![Hello, Mr. Beaver!](https://cn.bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg&w=1000)
 
-Today: 2025-04-06 | title: Lost in titles | copyright：George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy) [download 4k](https://cn.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg)
+Today: 2025-04-07 | title: Hello, Mr. Beaver! | copyright：North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Lost in titles](https://cn.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-04-06 [download 4k](https://cn.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg)| ![Pilgrimage to San Juan de Gaztelugatxe](https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9970203395_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-04-05 [download 4k](https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9970203395_UHD.jpg)| ![Cherry, cherry, bloom, bloom](https://cn.bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-04-04 [download 4k](https://cn.bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg)|
-| ![The sky is the limit](https://cn.bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-04-03 [download 4k](https://cn.bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg)| ![Waves of time](https://cn.bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-04-02 [download 4k](https://cn.bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg)| ![Hoppin' into National Frog Month](https://cn.bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-04-01 [download 4k](https://cn.bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg)|
+| ![Hello, Mr. Beaver!](https://cn.bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-04-07 [download 4k](https://cn.bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg)| ![Lost in titles](https://cn.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-04-06 [download 4k](https://cn.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg)| ![Pilgrimage to San Juan de Gaztelugatxe](https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9970203395_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-04-05 [download 4k](https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9970203395_UHD.jpg)|
+| ![Cherry, cherry, bloom, bloom](https://cn.bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-04-04 [download 4k](https://cn.bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg)| ![The sky is the limit](https://cn.bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-04-03 [download 4k](https://cn.bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg)| ![Waves of time](https://cn.bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-04-02 [download 4k](https://cn.bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg)|
+| ![Hoppin' into National Frog Month](https://cn.bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-04-01 [download 4k](https://cn.bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg)|
 
 ## archives
 
