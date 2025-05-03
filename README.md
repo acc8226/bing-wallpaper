@@ -1,12 +1,12 @@
-![Sailing solo](https://cn.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg&w=1000)
+![Let's celebrate the cosmos](https://cn.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg&w=1000)
 
-Today: 2025-05-02 | title: Sailing solo | copyright：Striated heron on a Victoria water lily, Pantanal, Brazil (© Gerald Corsi/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg)
+Today: 2025-05-03 | title: Let's celebrate the cosmos | copyright：The Milky Way framed by Double Arch in Arches National Park, Utah (© Adventure_Photo/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![Sailing solo](https://cn.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-05-02 [download 4k](https://cn.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg)| ![A fragrant tradition](https://cn.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-05-01 [download 4k](https://cn.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![Let's celebrate the cosmos](https://cn.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-05-03 [download 4k](https://cn.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg)| ![Sailing solo](https://cn.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-05-02 [download 4k](https://cn.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg)| ![A fragrant tradition](https://cn.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-05-01 [download 4k](https://cn.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg)|
 
 ## archives
 
