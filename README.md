@@ -1,13 +1,13 @@
-![Welcome to planet Naboo!](https://cn.bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg&w=1000)
+![Viva Mexico!](https://cn.bing.com/th?id=OHR.CincoFlags_EN-US5873749093_UHD.jpg&w=1000)
 
-Today: 2025-05-04 | title: Welcome to planet Naboo! | copyright：Plaza de España, Seville, Spain (© Horia Merla/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg)
+Today: 2025-05-05 | title: Viva Mexico! | copyright：Paper flags strung over a street in San Miguel de Allende, Mexico (© William Zinn/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.CincoFlags_EN-US5873749093_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Welcome to planet Naboo!](https://cn.bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-05-04 [download 4k](https://cn.bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg)| ![Let's celebrate the cosmos](https://cn.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-05-03 [download 4k](https://cn.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg)| ![Sailing solo](https://cn.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-05-02 [download 4k](https://cn.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg)|
-| ![A fragrant tradition](https://cn.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-05-01 [download 4k](https://cn.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg)|
+| ![Viva Mexico!](https://cn.bing.com/th?id=OHR.CincoFlags_EN-US5873749093_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-05-05 [download 4k](https://cn.bing.com/th?id=OHR.CincoFlags_EN-US5873749093_UHD.jpg)| ![Welcome to planet Naboo!](https://cn.bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-05-04 [download 4k](https://cn.bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg)| ![Let's celebrate the cosmos](https://cn.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-05-03 [download 4k](https://cn.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg)|
+| ![Sailing solo](https://cn.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-05-02 [download 4k](https://cn.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg)| ![A fragrant tradition](https://cn.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-05-01 [download 4k](https://cn.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg)|
 
 ## archives
 
