@@ -1,12 +1,12 @@
-![Under the sea](https://cn.bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg&w=1000)
+![Flower power](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg&w=1000)
 
-Today: 2025-06-01 | title: Under the sea | copyright：Barrier reef off the island of Grande Terre in the French overseas territory of New Caledonia (© Karsten Wrobel/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg)
+Today: 2025-06-02 | title: Flower power | copyright：Skipper butterfly on a coneflower, Rockefeller State Park Preserve, New York (© Marianne A. Campolongo/Alamy) [download 4k](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Under the sea](https://cn.bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-06-01 [download 4k](https://cn.bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Flower power](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-06-02 [download 4k](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg)| ![Under the sea](https://cn.bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-06-01 [download 4k](https://cn.bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg)|
 
 ## archives
 
