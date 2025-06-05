@@ -1,13 +1,13 @@
-![Crisp blues, sharp views](https://cn.bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg&w=1000)
+![Recycling never looked so good](https://cn.bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg&w=1000)
 
-Today: 2025-06-04 | title: Crisp blues, sharp views | copyright：The beach at Cala Luna, Sardinia, Italy (© guenterguni/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg)
+Today: 2025-06-05 | title: Recycling never looked so good | copyright：Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Crisp blues, sharp views](https://cn.bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-06-04 [download 4k](https://cn.bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg)| ![Break for joy](https://cn.bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-06-03 [download 4k](https://cn.bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg)| ![Flower power](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-06-02 [download 4k](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg)|
-| ![Under the sea](https://cn.bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-06-01 [download 4k](https://cn.bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg)|
+| ![Recycling never looked so good](https://cn.bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-06-05 [download 4k](https://cn.bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg)| ![Crisp blues, sharp views](https://cn.bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-06-04 [download 4k](https://cn.bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg)| ![Break for joy](https://cn.bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-06-03 [download 4k](https://cn.bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg)|
+| ![Flower power](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-06-02 [download 4k](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg)| ![Under the sea](https://cn.bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-06-01 [download 4k](https://cn.bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg)|
 
 ## archives
 
