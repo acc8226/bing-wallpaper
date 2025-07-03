@@ -1,12 +1,12 @@
-![In the bubble-tip zone](https://cn.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg&w=1000)
+![The clear embrace of Rainbow River](https://cn.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg&w=1000)
 
-Today: 2025-07-02 | title: In the bubble-tip zone | copyright：Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea (© Fred Bavendam/Nature Picture Library) [download 4k](https://cn.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg)
+Today: 2025-07-03 | title: The clear embrace of Rainbow River | copyright：Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures) [download 4k](https://cn.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![In the bubble-tip zone](https://cn.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-07-02 [download 4k](https://cn.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg)| ![Canada turns 158](https://cn.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-07-01 [download 4k](https://cn.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![The clear embrace of Rainbow River](https://cn.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-07-03 [download 4k](https://cn.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg)| ![In the bubble-tip zone](https://cn.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-07-02 [download 4k](https://cn.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg)| ![Canada turns 158](https://cn.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-07-01 [download 4k](https://cn.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg)|
 
 ## archives
 
