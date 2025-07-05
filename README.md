@@ -1,13 +1,13 @@
-![Sparks over Seattle](https://cn.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg&w=1000)
+![Pedaling through history](https://cn.bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg&w=1000)
 
-Today: 2025-07-04 | title: Sparks over Seattle | copyright：Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan) [download 4k](https://cn.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg)
+Today: 2025-07-05 | title: Pedaling through history | copyright：Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Sparks over Seattle](https://cn.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-07-04 [download 4k](https://cn.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg)| ![The clear embrace of Rainbow River](https://cn.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-07-03 [download 4k](https://cn.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg)| ![In the bubble-tip zone](https://cn.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-07-02 [download 4k](https://cn.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg)|
-| ![Canada turns 158](https://cn.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-07-01 [download 4k](https://cn.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg)|
+| ![Pedaling through history](https://cn.bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-07-05 [download 4k](https://cn.bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg)| ![Sparks over Seattle](https://cn.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-07-04 [download 4k](https://cn.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg)| ![The clear embrace of Rainbow River](https://cn.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-07-03 [download 4k](https://cn.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg)|
+| ![In the bubble-tip zone](https://cn.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-07-02 [download 4k](https://cn.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg)| ![Canada turns 158](https://cn.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-07-01 [download 4k](https://cn.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg)|
 
 ## archives
 
