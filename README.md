@@ -1,12 +1,12 @@
-![Expect the unexpected](https://cn.bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_UHD.jpg&w=1000)
+![Age-old storyboard](https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_EN-US8712481828_UHD.jpg&w=1000)
 
-Today: 2025-08-01 | title: Expect the unexpected | copyright：Royal Mile, Edinburgh, Scotland (© MEDITERRANEAN/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_UHD.jpg)
+Today: 2025-08-02 | title: Age-old storyboard | copyright：Petroglyphs near Fruita in Capitol Reef National Park, Utah (© Nicolas VINCENT/Adobe Stock) [download 4k](https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_EN-US8712481828_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Expect the unexpected](https://cn.bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-08-01 [download 4k](https://cn.bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Age-old storyboard](https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_EN-US8712481828_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-08-02 [download 4k](https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_EN-US8712481828_UHD.jpg)| ![Expect the unexpected](https://cn.bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-08-01 [download 4k](https://cn.bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_UHD.jpg)|
 
 ## archives
 
