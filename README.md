@@ -1,12 +1,12 @@
-![Ghosts of Deadvlei](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg&w=1000)
+![Protected stillness](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg&w=1000)
 
-Today: 2025-09-02 | title: Ghosts of Deadvlei | copyright：Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy) [download 4k](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg)
+Today: 2025-09-03 | title: Protected stillness | copyright：Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![Ghosts of Deadvlei](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-02 [download 4k](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg)| ![Stitched into history](https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-01 [download 4k](https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![Protected stillness](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-03 [download 4k](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg)| ![Ghosts of Deadvlei](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-02 [download 4k](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg)| ![Stitched into history](https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-01 [download 4k](https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg)|
 
 ## archives
 
