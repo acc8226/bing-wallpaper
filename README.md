@@ -1,12 +1,13 @@
-![Protected stillness](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg&w=1000)
+![Bear with us—it's National Wildlife Day](https://cn.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg&w=1000)
 
-Today: 2025-09-03 | title: Protected stillness | copyright：Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg)
+Today: 2025-09-04 | title: Bear with us—it's National Wildlife Day | copyright：Grizzly bears wrestling, Katmai National Park and Preserve, Alaska (© Cavan Images/Adobe Stock) [download 4k](https://cn.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Protected stillness](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-03 [download 4k](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg)| ![Ghosts of Deadvlei](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-02 [download 4k](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg)| ![Stitched into history](https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-01 [download 4k](https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg)|
+| ![Bear with us—it's National Wildlife Day](https://cn.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-04 [download 4k](https://cn.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg)| ![Protected stillness](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-03 [download 4k](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg)| ![Ghosts of Deadvlei](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-02 [download 4k](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg)|
+| ![Stitched into history](https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-01 [download 4k](https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg)|
 
 ## archives
 
