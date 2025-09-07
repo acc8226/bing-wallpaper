@@ -1,13 +1,14 @@
-![A hum-dinger of a day](https://cn.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg&w=1000)
+![Pastel dreams and still waters](https://cn.bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg&w=1000)
 
-Today: 2025-09-06 | title: A hum-dinger of a day | copyright：Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg)
+Today: 2025-09-07 | title: Pastel dreams and still waters | copyright：Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion) [download 4k](https://cn.bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![A hum-dinger of a day](https://cn.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-06 [download 4k](https://cn.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg)| ![A pier-fect evening](https://cn.bing.com/th?id=OHR.SunsetPier_EN-US7261804528_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-05 [download 4k](https://cn.bing.com/th?id=OHR.SunsetPier_EN-US7261804528_UHD.jpg)| ![Bear with us—it's National Wildlife Day](https://cn.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-04 [download 4k](https://cn.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg)|
-| ![Protected stillness](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-03 [download 4k](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg)| ![Ghosts of Deadvlei](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-02 [download 4k](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg)| ![Stitched into history](https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-01 [download 4k](https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg)|
+| ![Pastel dreams and still waters](https://cn.bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-07 [download 4k](https://cn.bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg)| ![A hum-dinger of a day](https://cn.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-06 [download 4k](https://cn.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg)| ![A pier-fect evening](https://cn.bing.com/th?id=OHR.SunsetPier_EN-US7261804528_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-05 [download 4k](https://cn.bing.com/th?id=OHR.SunsetPier_EN-US7261804528_UHD.jpg)|
+| ![Bear with us—it's National Wildlife Day](https://cn.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-04 [download 4k](https://cn.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg)| ![Protected stillness](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-03 [download 4k](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg)| ![Ghosts of Deadvlei](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-02 [download 4k](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg)|
+| ![Stitched into history](https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-09-01 [download 4k](https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg)|
 
 ## archives
 
