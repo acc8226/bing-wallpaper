@@ -1,12 +1,12 @@
-![Echoes from the Clark Range](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&w=1000)
+![Wild by law](https://cn.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg&w=1000)
 
-Today: 2025-10-01 | title: Echoes from the Clark Range | copyright：Clark Range, Sierra Nevada, Yosemite National Park, California (© Robb Hirsch/TANDEM Stills + Motion) [download 4k](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg)
+Today: 2025-10-02 | title: Wild by law | copyright：Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming (© DanitaDelimont.com/AWL Images/SuperStock) [download 4k](https://cn.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Echoes from the Clark Range](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-01 [download 4k](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Wild by law](https://cn.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-02 [download 4k](https://cn.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg)| ![Echoes from the Clark Range](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-01 [download 4k](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg)|
 
 ## archives
 
