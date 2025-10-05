@@ -1,13 +1,13 @@
-![Mission: Possible](https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg&w=1000)
+![Celebrating our teachers](https://cn.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg&w=1000)
 
-Today: 2025-10-04 | title: Mission: Possible | copyright：ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA) [download 4k](https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg)
+Today: 2025-10-05 | title: Celebrating our teachers | copyright：Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy) [download 4k](https://cn.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Mission: Possible](https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-04 [download 4k](https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg)| ![Mist-bound reveries](https://cn.bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-03 [download 4k](https://cn.bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg)| ![Wild by law](https://cn.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-02 [download 4k](https://cn.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg)|
-| ![Echoes from the Clark Range](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-01 [download 4k](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg)|
+| ![Celebrating our teachers](https://cn.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-05 [download 4k](https://cn.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg)| ![Mission: Possible](https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-04 [download 4k](https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg)| ![Mist-bound reveries](https://cn.bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-03 [download 4k](https://cn.bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg)|
+| ![Wild by law](https://cn.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-02 [download 4k](https://cn.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg)| ![Echoes from the Clark Range](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-01 [download 4k](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg)|
 
 ## archives
 
