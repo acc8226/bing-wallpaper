@@ -1,13 +1,14 @@
-![To the moon and back](https://cn.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg&w=1000)
+![Golden fall glow](https://cn.bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg&w=1000)
 
-Today: 2025-10-06 | title: To the moon and back | copyright：Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg)
+Today: 2025-10-07 | title: Golden fall glow | copyright：Fall colors below Mount Sneffels near Ridgway, Colorado (© Grant Ordelheide/TANDEM Stills + Motion) [download 4k](https://cn.bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![To the moon and back](https://cn.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-06 [download 4k](https://cn.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg)| ![Celebrating our teachers](https://cn.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-05 [download 4k](https://cn.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg)| ![Mission: Possible](https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-04 [download 4k](https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg)|
-| ![Mist-bound reveries](https://cn.bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-03 [download 4k](https://cn.bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg)| ![Wild by law](https://cn.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-02 [download 4k](https://cn.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg)| ![Echoes from the Clark Range](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-01 [download 4k](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg)|
+| ![Golden fall glow](https://cn.bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-07 [download 4k](https://cn.bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg)| ![To the moon and back](https://cn.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-06 [download 4k](https://cn.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg)| ![Celebrating our teachers](https://cn.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-05 [download 4k](https://cn.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg)|
+| ![Mission: Possible](https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-04 [download 4k](https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg)| ![Mist-bound reveries](https://cn.bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-03 [download 4k](https://cn.bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg)| ![Wild by law](https://cn.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-02 [download 4k](https://cn.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg)|
+| ![Echoes from the Clark Range](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-10-01 [download 4k](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg)|
 
 ## archives
 
