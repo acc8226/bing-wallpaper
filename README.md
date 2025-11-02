@@ -1,12 +1,12 @@
-![Herds of heritage](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg&w=1000)
+![Where bamboo breathes and maples blaze](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg&w=1000)
 
-Today: 2025-11-01 | title: Herds of heritage | copyright：Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming (© Cheryl Ramalho/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg)
+Today: 2025-11-02 | title: Where bamboo breathes and maples blaze | copyright：Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Herds of heritage](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-01 [download 4k](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Where bamboo breathes and maples blaze](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-02 [download 4k](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg)| ![Herds of heritage](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-01 [download 4k](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg)|
 
 ## archives
 
