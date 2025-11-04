@@ -1,12 +1,13 @@
-![Just jellin'](https://cn.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg&w=1000)
+![Mind the gap—this one opens](https://cn.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg&w=1000)
 
-Today: 2025-11-03 | title: Just jellin' | copyright：Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion) [download 4k](https://cn.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg)
+Today: 2025-11-04 | title: Mind the gap—this one opens | copyright：Tower Bridge, London, England (© Nick Brundle Photography/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Just jellin'](https://cn.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-03 [download 4k](https://cn.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg)| ![Where bamboo breathes and maples blaze](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-02 [download 4k](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg)| ![Herds of heritage](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-01 [download 4k](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg)|
+| ![Mind the gap—this one opens](https://cn.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-04 [download 4k](https://cn.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg)| ![Just jellin'](https://cn.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-03 [download 4k](https://cn.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg)| ![Where bamboo breathes and maples blaze](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-02 [download 4k](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg)|
+| ![Herds of heritage](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-01 [download 4k](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg)|
 
 ## archives
 
