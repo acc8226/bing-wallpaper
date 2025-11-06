@@ -1,13 +1,13 @@
-![Orange you glad it's fall?](https://cn.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg&w=1000)
+![Sky full of wishes](https://cn.bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_UHD.jpg&w=1000)
 
-Today: 2025-11-05 | title: Orange you glad it's fall? | copyright：Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture) [download 4k](https://cn.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg)
+Today: 2025-11-06 | title: Sky full of wishes | copyright：Colorful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Orange you glad it's fall?](https://cn.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-05 [download 4k](https://cn.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg)| ![Mind the gap—this one opens](https://cn.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-04 [download 4k](https://cn.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg)| ![Just jellin'](https://cn.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-03 [download 4k](https://cn.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg)|
-| ![Where bamboo breathes and maples blaze](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-02 [download 4k](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg)| ![Herds of heritage](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-01 [download 4k](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg)|
+| ![Sky full of wishes](https://cn.bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-06 [download 4k](https://cn.bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_UHD.jpg)| ![Orange you glad it's fall?](https://cn.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-05 [download 4k](https://cn.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg)| ![Mind the gap—this one opens](https://cn.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-04 [download 4k](https://cn.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg)|
+| ![Just jellin'](https://cn.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-03 [download 4k](https://cn.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg)| ![Where bamboo breathes and maples blaze](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-02 [download 4k](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg)| ![Herds of heritage](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-11-01 [download 4k](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg)|
 
 ## archives
 
