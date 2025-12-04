@@ -1,12 +1,13 @@
-![Dawn of the cranes](https://cn.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg&w=1000)
+![Sprint for survival](https://cn.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg&w=1000)
 
-Today: 2025-12-03 | title: Dawn of the cranes | copyright：Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico (© Jack Dykinga/Minden Pictures) [download 4k](https://cn.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg)
+Today: 2025-12-04 | title: Sprint for survival | copyright：Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com) [download 4k](https://cn.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Dawn of the cranes](https://cn.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-12-03 [download 4k](https://cn.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg)| ![A view that speaks volumes](https://cn.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-12-02 [download 4k](https://cn.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg)| ![Where ice holds its breath](https://cn.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-12-01 [download 4k](https://cn.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg)|
+| ![Sprint for survival](https://cn.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-12-04 [download 4k](https://cn.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg)| ![Dawn of the cranes](https://cn.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-12-03 [download 4k](https://cn.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg)| ![A view that speaks volumes](https://cn.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-12-02 [download 4k](https://cn.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg)|
+| ![Where ice holds its breath](https://cn.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2025-12-01 [download 4k](https://cn.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg)|
 
 ## archives
 
