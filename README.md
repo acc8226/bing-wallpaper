@@ -1,12 +1,12 @@
-![The soul of Venice](https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg&w=1000)
+![The steps before the saga](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg&w=1000)
 
-Today: 2026-01-02 | title: The soul of Venice | copyright：Aerial view of Venice, Italy (© Clement Leonard/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg)
+Today: 2026-01-03 | title: The steps before the saga | copyright：Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![The soul of Venice](https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-01-02 [download 4k](https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg)| ![Stretch into the New Year](https://cn.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-01-01 [download 4k](https://cn.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![The steps before the saga](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-01-03 [download 4k](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg)| ![The soul of Venice](https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-01-02 [download 4k](https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg)| ![Stretch into the New Year](https://cn.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-01-01 [download 4k](https://cn.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg)|
 
 ## archives
 
