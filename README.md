@@ -1,12 +1,13 @@
-![The steps before the saga](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg&w=1000)
+![A royal view](https://cn.bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg&w=1000)
 
-Today: 2026-01-03 | title: The steps before the saga | copyright：Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg)
+Today: 2026-01-04 | title: A royal view | copyright：Kings Mountain, Chugach Mountains, Alaska (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion) [download 4k](https://cn.bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![The steps before the saga](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-01-03 [download 4k](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg)| ![The soul of Venice](https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-01-02 [download 4k](https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg)| ![Stretch into the New Year](https://cn.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-01-01 [download 4k](https://cn.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg)|
+| ![A royal view](https://cn.bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-01-04 [download 4k](https://cn.bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg)| ![The steps before the saga](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-01-03 [download 4k](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg)| ![The soul of Venice](https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-01-02 [download 4k](https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg)|
+| ![Stretch into the New Year](https://cn.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-01-01 [download 4k](https://cn.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg)|
 
 ## archives
 
