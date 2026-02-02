@@ -1,12 +1,12 @@
-![Celebrate. Reflect. Rise.](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&w=1000)
+![A shadow's promise](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&w=1000)
 
-Today: 2026-02-01 | title: Celebrate. Reflect. Rise. | copyright：US Army nurses arrive in Greenock, Scotland, 1944 (© Stocktrek Images, Inc/Alamy) [download 4k](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg)
+Today: 2026-02-02 | title: A shadow's promise | copyright：Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Celebrate. Reflect. Rise.](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-01 [download 4k](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![A shadow's promise](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-02 [download 4k](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg)| ![Celebrate. Reflect. Rise.](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-01 [download 4k](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg)|
 
 ## archives
 
