@@ -1,12 +1,12 @@
-![A shadow's promise](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&w=1000)
+![Tahoe serving views](https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg&w=1000)
 
-Today: 2026-02-02 | title: A shadow's promise | copyright：Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg)
+Today: 2026-02-03 | title: Tahoe serving views | copyright：Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images) [download 4k](https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![A shadow's promise](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-02 [download 4k](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg)| ![Celebrate. Reflect. Rise.](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-01 [download 4k](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![Tahoe serving views](https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-03 [download 4k](https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg)| ![A shadow's promise](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-02 [download 4k](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg)| ![Celebrate. Reflect. Rise.](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-01 [download 4k](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg)|
 
 ## archives
 
