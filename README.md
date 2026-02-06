@@ -1,13 +1,13 @@
-![Stuck in a grid](https://cn.bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg&w=1000)
+![Ra Gusela—peak of the Olympic season](https://cn.bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg&w=1000)
 
-Today: 2026-02-05 | title: Stuck in a grid | copyright：Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg)
+Today: 2026-02-06 | title: Ra Gusela—peak of the Olympic season | copyright：Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Stuck in a grid](https://cn.bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-05 [download 4k](https://cn.bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg)| ![The face of change](https://cn.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-04 [download 4k](https://cn.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg)| ![Tahoe serving views](https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-03 [download 4k](https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg)|
-| ![A shadow's promise](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-02 [download 4k](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg)| ![Celebrate. Reflect. Rise.](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-01 [download 4k](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg)|
+| ![Ra Gusela—peak of the Olympic season](https://cn.bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-06 [download 4k](https://cn.bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg)| ![Stuck in a grid](https://cn.bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-05 [download 4k](https://cn.bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg)| ![The face of change](https://cn.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-04 [download 4k](https://cn.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg)|
+| ![Tahoe serving views](https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-03 [download 4k](https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg)| ![A shadow's promise](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-02 [download 4k](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg)| ![Celebrate. Reflect. Rise.](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-02-01 [download 4k](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg)|
 
 ## archives
 
