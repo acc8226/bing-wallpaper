@@ -1,12 +1,12 @@
-![A victory that endures](https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg&w=1000)
+![Floating legacies](https://cn.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg&w=1000)
 
-Today: 2026-03-01 | title: A victory that endures | copyright：Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg)
+Today: 2026-03-02 | title: Floating legacies | copyright：Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![A victory that endures](https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-03-01 [download 4k](https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Floating legacies](https://cn.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-03-02 [download 4k](https://cn.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg)| ![A victory that endures](https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-03-01 [download 4k](https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg)|
 
 ## archives
 
