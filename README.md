@@ -1,13 +1,13 @@
-![Crocuses in the spotlight](https://cn.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg&w=1000)
+![Ancient rocks, modern lights](https://cn.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg&w=1000)
 
-Today: 2026-03-04 | title: Crocuses in the spotlight | copyright：Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg)
+Today: 2026-03-05 | title: Ancient rocks, modern lights | copyright：Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Crocuses in the spotlight](https://cn.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-03-04 [download 4k](https://cn.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg)| ![Guardians of the wild](https://cn.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-03-03 [download 4k](https://cn.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg)| ![Floating legacies](https://cn.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-03-02 [download 4k](https://cn.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg)|
-| ![A victory that endures](https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-03-01 [download 4k](https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg)|
+| ![Ancient rocks, modern lights](https://cn.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-03-05 [download 4k](https://cn.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg)| ![Crocuses in the spotlight](https://cn.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-03-04 [download 4k](https://cn.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg)| ![Guardians of the wild](https://cn.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-03-03 [download 4k](https://cn.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg)|
+| ![Floating legacies](https://cn.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-03-02 [download 4k](https://cn.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg)| ![A victory that endures](https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-03-01 [download 4k](https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg)|
 
 ## archives
 
