@@ -1,12 +1,12 @@
-![Hopping into April](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&w=1000)
+![Patterns of spring](https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg&w=1000)
 
-Today: 2026-04-01 | title: Hopping into April | copyright：Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg)
+Today: 2026-04-02 | title: Patterns of spring | copyright：Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion) [download 4k](https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Hopping into April](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-04-01 [download 4k](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Patterns of spring](https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-04-02 [download 4k](https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg)| ![Hopping into April](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-04-01 [download 4k](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg)|
 
 ## archives
 
