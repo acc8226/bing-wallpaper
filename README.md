@@ -1,12 +1,13 @@
-![Bridging the gap, one arm at a time](https://cn.bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg&w=1000)
+![The lek side story](https://cn.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg&w=1000)
 
-Today: 2026-04-03 | title: Bridging the gap, one arm at a time | copyright：Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg)
+Today: 2026-04-04 | title: The lek side story | copyright：Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library) [download 4k](https://cn.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Bridging the gap, one arm at a time](https://cn.bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-04-03 [download 4k](https://cn.bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg)| ![Patterns of spring](https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-04-02 [download 4k](https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg)| ![Hopping into April](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-04-01 [download 4k](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg)|
+| ![The lek side story](https://cn.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-04-04 [download 4k](https://cn.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg)| ![Bridging the gap, one arm at a time](https://cn.bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-04-03 [download 4k](https://cn.bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg)| ![Patterns of spring](https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-04-02 [download 4k](https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg)|
+| ![Hopping into April](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-04-01 [download 4k](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg)|
 
 ## archives
 
