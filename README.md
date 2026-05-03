@@ -1,12 +1,12 @@
-![The magic of Jasper](https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg&w=1000)
+![Savanna afterglow](https://cn.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg&w=1000)
 
-Today: 2026-05-02 | title: The magic of Jasper | copyright：Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg)
+Today: 2026-05-03 | title: Savanna afterglow | copyright：Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library) [download 4k](https://cn.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![The magic of Jasper](https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-05-02 [download 4k](https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg)| ![A pond of stories](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-05-01 [download 4k](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![Savanna afterglow](https://cn.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-05-03 [download 4k](https://cn.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg)| ![The magic of Jasper](https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-05-02 [download 4k](https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg)| ![A pond of stories](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-05-01 [download 4k](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg)|
 
 ## archives
 
