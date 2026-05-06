@@ -1,13 +1,13 @@
-![Where history took root](https://cn.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg&w=1000)
+![Plains under pressure](https://cn.bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg&w=1000)
 
-Today: 2026-05-05 | title: Where history took root | copyright：Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy) [download 4k](https://cn.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg)
+Today: 2026-05-06 | title: Plains under pressure | copyright：Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Where history took root](https://cn.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-05-05 [download 4k](https://cn.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg)| ![Sci‑Fi, Earth‑made](https://cn.bing.com/th?id=OHR.KsarOuledSoltane_EN-US0477407273_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-05-04 [download 4k](https://cn.bing.com/th?id=OHR.KsarOuledSoltane_EN-US0477407273_UHD.jpg)| ![Savanna afterglow](https://cn.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-05-03 [download 4k](https://cn.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg)|
-| ![The magic of Jasper](https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-05-02 [download 4k](https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg)| ![A pond of stories](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-05-01 [download 4k](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg)|
+| ![Plains under pressure](https://cn.bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-05-06 [download 4k](https://cn.bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg)| ![Where history took root](https://cn.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-05-05 [download 4k](https://cn.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg)| ![Sci‑Fi, Earth‑made](https://cn.bing.com/th?id=OHR.KsarOuledSoltane_EN-US0477407273_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-05-04 [download 4k](https://cn.bing.com/th?id=OHR.KsarOuledSoltane_EN-US0477407273_UHD.jpg)|
+| ![Savanna afterglow](https://cn.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-05-03 [download 4k](https://cn.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg)| ![The magic of Jasper](https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-05-02 [download 4k](https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg)| ![A pond of stories](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-05-01 [download 4k](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg)|
 
 ## archives
 
