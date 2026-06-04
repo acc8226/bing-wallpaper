@@ -1,12 +1,13 @@
-![Where the road stops, the ride begins](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&w=1000)
+![Fancy feathers](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&w=1000)
 
-Today: 2026-06-03 | title: Where the road stops, the ride begins | copyright：Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg)
+Today: 2026-06-04 | title: Fancy feathers | copyright：Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures) [download 4k](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Where the road stops, the ride begins](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-03 [download 4k](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg)| ![Between the blues](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-02 [download 4k](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg)| ![Pride in plain sight](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-01 [download 4k](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg)|
+| ![Fancy feathers](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-04 [download 4k](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg)| ![Where the road stops, the ride begins](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-03 [download 4k](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg)| ![Between the blues](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-02 [download 4k](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg)|
+| ![Pride in plain sight](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-01 [download 4k](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg)|
 
 ## archives
 
