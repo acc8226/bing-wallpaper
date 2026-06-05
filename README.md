@@ -1,13 +1,13 @@
-![Fancy feathers](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&w=1000)
+![The quiet power of an unclaimed world](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&w=1000)
 
-Today: 2026-06-04 | title: Fancy feathers | copyright：Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures) [download 4k](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg)
+Today: 2026-06-05 | title: The quiet power of an unclaimed world | copyright：View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Fancy feathers](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-04 [download 4k](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg)| ![Where the road stops, the ride begins](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-03 [download 4k](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg)| ![Between the blues](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-02 [download 4k](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg)|
-| ![Pride in plain sight](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-01 [download 4k](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg)|
+| ![The quiet power of an unclaimed world](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-05 [download 4k](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg)| ![Fancy feathers](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-04 [download 4k](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg)| ![Where the road stops, the ride begins](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-03 [download 4k](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg)|
+| ![Between the blues](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-02 [download 4k](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg)| ![Pride in plain sight](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-01 [download 4k](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg)|
 
 ## archives
 
