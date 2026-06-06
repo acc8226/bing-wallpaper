@@ -1,13 +1,13 @@
-![The quiet power of an unclaimed world](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&w=1000)
+![Wander often, wonder more](https://cn.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&w=1000)
 
-Today: 2026-06-05 | title: The quiet power of an unclaimed world | copyright：View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg)
+Today: 2026-06-06 | title: Wander often, wonder more | copyright：Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus) [download 4k](https://cn.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![The quiet power of an unclaimed world](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-05 [download 4k](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg)| ![Fancy feathers](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-04 [download 4k](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg)| ![Where the road stops, the ride begins](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-03 [download 4k](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg)|
-| ![Between the blues](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-02 [download 4k](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg)| ![Pride in plain sight](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-01 [download 4k](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg)|
+| ![Wander often, wonder more](https://cn.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-06 [download 4k](https://cn.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg)| ![The quiet power of an unclaimed world](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-05 [download 4k](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg)| ![Fancy feathers](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-04 [download 4k](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg)|
+| ![Where the road stops, the ride begins](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-03 [download 4k](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg)| ![Between the blues](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-02 [download 4k](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg)| ![Pride in plain sight](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-06-01 [download 4k](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg)|
 
 ## archives
 
