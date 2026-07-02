@@ -1,12 +1,12 @@
-![Canada, carved by the Atlantic](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&w=1000)
+![Inside Esna's sacred universe](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&w=1000)
 
-Today: 2026-07-01 | title: Canada, carved by the Atlantic | copyright：Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg)
+Today: 2026-07-02 | title: Inside Esna's sacred universe | copyright：Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Canada, carved by the Atlantic](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-01 [download 4k](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Inside Esna's sacred universe](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-02 [download 4k](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg)| ![Canada, carved by the Atlantic](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-01 [download 4k](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg)|
 
 ## archives
 
