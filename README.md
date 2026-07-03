@@ -1,12 +1,12 @@
-![Inside Esna's sacred universe](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&w=1000)
+![The poetry of vanishing light](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&w=1000)
 
-Today: 2026-07-02 | title: Inside Esna's sacred universe | copyright：Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg)
+Today: 2026-07-03 | title: The poetry of vanishing light | copyright：Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![Inside Esna's sacred universe](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-02 [download 4k](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg)| ![Canada, carved by the Atlantic](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-01 [download 4k](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![The poetry of vanishing light](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-03 [download 4k](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg)| ![Inside Esna's sacred universe](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-02 [download 4k](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg)| ![Canada, carved by the Atlantic](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-01 [download 4k](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg)|
 
 ## archives
 
