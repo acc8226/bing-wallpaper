@@ -1,13 +1,13 @@
-![The story continues](https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&w=1000)
+![Sea of purple](https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&w=1000)
 
-Today: 2026-07-04 | title: The story continues | copyright：Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg)
+Today: 2026-07-05 | title: Sea of purple | copyright：Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock) [download 4k](https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![The story continues](https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-04 [download 4k](https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg)| ![The poetry of vanishing light](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-03 [download 4k](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg)| ![Inside Esna's sacred universe](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-02 [download 4k](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg)|
-| ![Canada, carved by the Atlantic](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-01 [download 4k](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg)|
+| ![Sea of purple](https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-05 [download 4k](https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg)| ![The story continues](https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-04 [download 4k](https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg)| ![The poetry of vanishing light](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-03 [download 4k](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg)|
+| ![Inside Esna's sacred universe](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-02 [download 4k](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg)| ![Canada, carved by the Atlantic](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-07-01 [download 4k](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg)|
 
 ## archives
 
