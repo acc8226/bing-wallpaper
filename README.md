@@ -1,12 +1,12 @@
-![The power of Kīlauea](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&w=1000)
+![Daughter of the Baltic](https://cn.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&w=1000)
 
-Today: 2026-08-01 | title: The power of Kīlauea | copyright：A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg)
+Today: 2026-08-02 | title: Daughter of the Baltic | copyright：Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![The power of Kīlauea](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-08-01 [download 4k](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![Daughter of the Baltic](https://cn.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-08-02 [download 4k](https://cn.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg)| ![The power of Kīlauea](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-08-01 [download 4k](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg)|
 
 ## archives
 
