@@ -1,12 +1,13 @@
-![Bright boats, timeless traditions](https://cn.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&w=1000)
+![Hoot hoot hooray!](https://cn.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg&w=1000)
 
-Today: 2026-08-03 | title: Bright boats, timeless traditions | copyright：Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg)
+Today: 2026-08-04 | title: Hoot hoot hooray! | copyright：Florida burrowing owlet, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Bright boats, timeless traditions](https://cn.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-08-03 [download 4k](https://cn.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg)| ![Daughter of the Baltic](https://cn.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-08-02 [download 4k](https://cn.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg)| ![The power of Kīlauea](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-08-01 [download 4k](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg)|
+| ![Hoot hoot hooray!](https://cn.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-08-04 [download 4k](https://cn.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg)| ![Bright boats, timeless traditions](https://cn.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-08-03 [download 4k](https://cn.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg)| ![Daughter of the Baltic](https://cn.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-08-02 [download 4k](https://cn.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg)|
+| ![The power of Kīlauea](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-08-01 [download 4k](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg)|
 
 ## archives
 
