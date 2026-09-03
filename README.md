@@ -1,12 +1,12 @@
-![Painted along the shore](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&w=1000)
+![An act of wilderness](https://cn.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&w=1000)
 
-Today: 2026-09-02 | title: Painted along the shore | copyright：Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg)
+Today: 2026-09-03 | title: An act of wilderness | copyright：Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![Painted along the shore](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-02 [download 4k](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg)| ![A world beneath your feet](https://cn.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-01 [download 4k](https://cn.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![An act of wilderness](https://cn.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-03 [download 4k](https://cn.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg)| ![Painted along the shore](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-02 [download 4k](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg)| ![A world beneath your feet](https://cn.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-01 [download 4k](https://cn.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg)|
 
 ## archives
 
