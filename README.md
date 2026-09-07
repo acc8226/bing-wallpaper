@@ -1,13 +1,14 @@
-![A reservoir of reflections](https://cn.bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg&w=1000)
+![Labor's legacy](https://cn.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg&w=1000)
 
-Today: 2026-09-06 | title: A reservoir of reflections | copyright：Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg)
+Today: 2026-09-07 | title: Labor's legacy | copyright：'Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy) [download 4k](https://cn.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![A reservoir of reflections](https://cn.bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-06 [download 4k](https://cn.bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg)| ![Small birds, big impact](https://cn.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-05 [download 4k](https://cn.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg)| ![Red and white on the horizon](https://cn.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-04 [download 4k](https://cn.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg)|
-| ![An act of wilderness](https://cn.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-03 [download 4k](https://cn.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg)| ![Painted along the shore](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-02 [download 4k](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg)| ![A world beneath your feet](https://cn.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-01 [download 4k](https://cn.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg)|
+| ![Labor's legacy](https://cn.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-07 [download 4k](https://cn.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg)| ![A reservoir of reflections](https://cn.bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-06 [download 4k](https://cn.bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg)| ![Small birds, big impact](https://cn.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-05 [download 4k](https://cn.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg)|
+| ![Red and white on the horizon](https://cn.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-04 [download 4k](https://cn.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg)| ![An act of wilderness](https://cn.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-03 [download 4k](https://cn.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg)| ![Painted along the shore](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-02 [download 4k](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg)|
+| ![A world beneath your feet](https://cn.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-09-01 [download 4k](https://cn.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg)|
 
 ## archives
 
