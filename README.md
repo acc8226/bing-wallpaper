@@ -1,12 +1,12 @@
-![Reading time in granite](https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&w=1000)
+![A river worth protecting](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&w=1000)
 
-Today: 2026-10-01 | title: Reading time in granite | copyright：Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion) [download 4k](https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg)
+Today: 2026-10-02 | title: A river worth protecting | copyright：Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |
-| :----: |
-| ![Reading time in granite](https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-01 [download 4k](https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg)|
+|  |  |
+| :----: | :----: |
+| ![A river worth protecting](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-02 [download 4k](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg)| ![Reading time in granite](https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-01 [download 4k](https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg)|
 
 ## archives
 
