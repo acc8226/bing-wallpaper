@@ -1,12 +1,13 @@
-![Catch, eat, repeat](https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&w=1000)
+![The universe is calling](https://cn.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg&w=1000)
 
-Today: 2026-10-03 | title: Catch, eat, repeat | copyright：Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library) [download 4k](https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg)
+Today: 2026-10-04 | title: The universe is calling | copyright：Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Catch, eat, repeat](https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-03 [download 4k](https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg)| ![A river worth protecting](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-02 [download 4k](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg)| ![Reading time in granite](https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-01 [download 4k](https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg)|
+| ![The universe is calling](https://cn.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-04 [download 4k](https://cn.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg)| ![Catch, eat, repeat](https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-03 [download 4k](https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg)| ![A river worth protecting](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-02 [download 4k](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg)|
+| ![Reading time in granite](https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-01 [download 4k](https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg)|
 
 ## archives
 
