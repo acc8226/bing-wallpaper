@@ -1,13 +1,14 @@
-![Earth's story in stripes](https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&w=1000)
+![Puzzled? Follow the trail](https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&w=1000)
 
-Today: 2026-10-06 | title: Earth's story in stripes | copyright：Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg)
+Today: 2026-10-07 | title: Puzzled? Follow the trail | copyright：Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg)
 
 ## bing wallpaper(current month)
 
 |  |  |  |
 | :----: | :----: | :----: |
-| ![Earth's story in stripes](https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-06 [download 4k](https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg)| ![Taking the plunge, one lesson at a time](https://cn.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-05 [download 4k](https://cn.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg)| ![The universe is calling](https://cn.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-04 [download 4k](https://cn.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg)|
-| ![Catch, eat, repeat](https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-03 [download 4k](https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg)| ![A river worth protecting](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-02 [download 4k](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg)| ![Reading time in granite](https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-01 [download 4k](https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg)|
+| ![Puzzled? Follow the trail](https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-07 [download 4k](https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg)| ![Earth's story in stripes](https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-06 [download 4k](https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg)| ![Taking the plunge, one lesson at a time](https://cn.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-05 [download 4k](https://cn.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg)|
+| ![The universe is calling](https://cn.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-04 [download 4k](https://cn.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg)| ![Catch, eat, repeat](https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-03 [download 4k](https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg)| ![A river worth protecting](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-02 [download 4k](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg)|
+| ![Reading time in granite](https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-10-01 [download 4k](https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg)|
 
 ## archives
 
