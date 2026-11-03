@@ -1,12 +1,12 @@
-![A future written in ice](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&w=1000)
+![Peace among the peaks](https://cn.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg&w=1000)
 
-Today: 2026-11-02 | title: A future written in ice | copyright：Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock) [download 4k](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg)
+Today: 2026-11-03 | title: Peace among the peaks | copyright：Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images) [download 4k](https://cn.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg)
 
 ## bing wallpaper(current month)
 
-|  |  |
-| :----: | :----: |
-| ![A future written in ice](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-11-02 [download 4k](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg)| ![Crafting continuity](https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-11-01 [download 4k](https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg)|
+|  |  |  |
+| :----: | :----: | :----: |
+| ![Peace among the peaks](https://cn.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-11-03 [download 4k](https://cn.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg)| ![A future written in ice](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-11-02 [download 4k](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg)| ![Crafting continuity](https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) <br/>2026-11-01 [download 4k](https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg)|
 
 ## archives
 
